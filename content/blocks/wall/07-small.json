@@ -1,0 +1,17 @@
+{	
+	"type":"Wall",
+	"name":"Small Wall\n[T7]",
+	"description":"undefined",
+	"health":2530,
+	"size":1,
+	"alwaysUnlocked":true,  
+
+	"requirements":[
+		{"item":"07-fragment","amount":15},
+		{"item":"copper","amount":5},
+		{"item":"lead","amount":5},
+	],
+
+	"category":"defense",
+	"research":"06-small",
+}

@@ -1,0 +1,12 @@
+{
+	"name":"Chromic Acid",
+	"description":"ácido usado para dissolver outros materiais, util para produção de materiais refinados",
+	"flammability":0.2,
+	"viscosity":0,
+	"explosiveness":0.4,
+	"heatCapacity":0,//capacidade de resfriar agua e 0.3 cryfluid é 0.9,
+	
+	// "lightColor":"#d51e52",
+	"color":"#73ffe6",
+	// "barColor":"#d51e52",//cor da barra de status do block
+}

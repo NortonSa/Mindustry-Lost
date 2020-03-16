@@ -1,0 +1,9 @@
+{
+	"type":"OreBlock",
+	"variants":3,
+	"itemDrop":"02-01-abelsonite",
+	"playerUnmineable":true,
+	"oreDefault":true,
+	"oreThreshold":0.85,
+	"oreScale":18,
+}

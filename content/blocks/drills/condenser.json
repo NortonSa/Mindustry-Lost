@@ -1,0 +1,27 @@
+{
+	"type":"SolidPump",
+	"name":"Condenser",
+	"description":"condensa particulas de água",
+	"size":3,
+	"health":380,
+	"rotateSpeed":1.25,
+	"liquidCapacity":36,
+	
+	"attribute":"water",
+	"updateEffect":"wet",
+	"chanceUpdateEffect":0.02,
+	"hasPower":"false",
+
+	"result":"water",
+	"pumpAmount":0.0534,
+	"timers":2,
+	"requirements":[
+		{"item":"copper","amount":50},
+		{"item":"lead","amount":40},
+		{"item":"graphite","amount":50}
+	],
+
+	"category":"production",
+	"research":"water-extractor",
+
+}

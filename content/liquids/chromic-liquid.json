@@ -1,0 +1,12 @@
+{
+	"name":"Chromic Acid",
+	"description":"undefined",
+	"flammability":0.3,
+	"viscosity":0,
+	"explosiveness":0.2,
+	"heatCapacity":0.1,//capacidade de resfriar agua e 0.3 cryfluid é 0.9,
+	
+	"lightColor":"#d51e52",
+	"color":"#d51e52",
+	"barColor":"#d51e52",//cor da barra de status do block
+}

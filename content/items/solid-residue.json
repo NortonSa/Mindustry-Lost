@@ -1,0 +1,9 @@
+{
+	"type":"resource",
+	"name":"solid Residue",
+	"description":"a litle solid parts of oil",
+	"explosiveness":0.1,
+	"radioactivity":0,
+	"flammability":0.1,
+	"color":"#9f9e9e",
+}

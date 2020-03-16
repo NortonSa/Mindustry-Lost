@@ -1,0 +1,56 @@
+{
+	"type":"DoubleTurret",
+	"name":"Abelsonite Spectre [Tier :2]",
+	"description":"its not like right",
+
+	"buildVisibility":"debugOnly",
+	
+	"size":4,
+	"health":3900,
+	"reload":6,
+	"restitution":0.1,
+	"ammoUseEffect":"shellEjectBig",
+	"range": 240,
+	"inaccuracy":2.5,
+	"xRand":4,
+	"shotWidth":4,
+	"shootShake":4,
+	"shootCone":28,
+	"shootSound":"shootBig",
+	
+	"ammo":{
+		"graphite":"standardDenseBig",
+		"thorium":"standardThoriumBig",
+		"pyratite":"standardIncendiaryBig",
+
+		"02-01-abelsonite":{
+			"type":"missileBulletType",
+			"speed":4,
+         	"keepVelocity":false,
+         	"drag":0.002,
+	     	"lifetime":200,
+	     	"trailColor":"#d51e52",
+	     	"backColor":"#d51e52",
+	     	"frontColor":"#d51e52",
+	     	"bulletWidth":8,
+	     	"damage":55,     
+	     	"fragBullets":2,
+	     	"ammoMultiplier":2,
+	        "smokeEffect":"shootBigSmoke",
+
+	     		"fragBullet":{
+	     			"metaglass":"flakGlass",
+	     			"splashDamageRadius":12,
+	     			"splashDamage":5
+	     		}
+		}
+	},
+
+	"requirements":[
+		{"item":"copper","amount":200},
+		{"item":"graphite","amount":150},
+	],
+
+	"category":"turret",
+	"research":"spectre",
+}

@@ -1,0 +1,37 @@
+{
+	"type":"GenericSmelter",
+	"name":"Upgrade Smelter\n[T2]",
+	"description":"upgrade to next Tier Ore",
+	"itemCapacity":12,
+	
+	"hasItem":true,
+	"hasPower":true,
+	"craftTime":60,
+	"size":2,
+	"craftEffect":"smeltsmoke",
+	"flameColor":"#6ae1ff",
+	"heatColor":"#ff5512",
+	"alwaysUnlocked":true,
+	"consumes":{
+		"power":1.3,
+		"items":{
+			"items":[
+				{"item":"02-01-abelsonite","amount":3},
+				{"item":"02-02-clinoclase","amount":3}
+		]}
+	},
+
+	"requirements":[
+		{"item":"01-fragment","amount":20},
+		{"item":"graphite","amount":25},
+		{"item":"silicon","amount":20}
+		{"item":"surge-alloy","amount":5},
+	],
+
+	"outputItem":{"item":"02-fragment","amount":1},
+
+
+	"category":"crafting",
+	"research":"01-upgrade-smelter"
+
+}

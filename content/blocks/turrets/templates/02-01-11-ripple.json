@@ -1,0 +1,60 @@
+{
+	"type":"ArtilleryTurret",
+	"name":"Abelsonite ripple [Tier:2]",
+
+	"buildVisibility":"debugOnly",
+	
+	"inaccuracy":12,
+	"reload":60,
+	"shots":5,
+	"ammoEjectBack":5,
+	"ammoUseEffect":"shellEjectBig",
+	"cooldown":0.03,
+	"velocityInaccuracy":0.02,
+	"restitution":6,
+	"shootShake":2,
+	"range":320,	
+	"size":3,
+	"health":2790,
+	"maxAmmo":15,
+	"collandMultiplier":6,
+
+	"ammo":{
+		"graphite":"artilleryDense",
+		"silicon":"artilleryHoming",
+		"pyratite":"artilleryIncendiary",
+		"blast-compound":"artilleryExplosive",
+		"plastanium":"artilleryPlastic",
+		
+		"02-01-abelsonite":{
+			"type":"artilleryBulletType",
+			"damage":55,
+			"lifetime":70,
+			"hitSize":10,
+			"collidesTiles":false,
+			"frontColor":"#d51e52",
+			"trailColor":"#d51e52",
+			"backColor":"#d51e52",
+			"ammoMultiplier":10,
+			"knockback":3,
+			"status":"burning",
+			"statusDuration":240,
+			"bulletWidth":15,
+			"bulletHeigt":15,
+			"splashDamage":22.5,
+			"splashDamageRadius":40,
+			"recoil":5,
+			"speed":2.5,
+			"fragVelocityMin":0.5,
+			"fragVelocityMax":3,
+		}		
+	},
+	"requirements":[
+		{"item":"02-01-abelsonite","amount":50}
+		{"item":"silicon","amount":50},
+		{"item":"graphite","amount":40},
+		{"item":"copper","amount":250},
+	],
+	"category":"turret",
+	"research":"ripple",
+}

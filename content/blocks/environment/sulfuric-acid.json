@@ -1,0 +1,16 @@
+{
+	"type":"floor",
+	"name":"Sulfuric-acid",
+	"variants":0,
+
+	"speedMultiplier":0.5,
+	"drownTime":90,	
+
+	"color":"#d74a72",
+	"statusDuration":240,
+	"isLiquid":true,	
+	"cacheLayer":"water",
+	"edge":"stone",
+	"liquidDrop":"sulfuric-liquid",
+	"blendGroup":"stone",
+}

@@ -1,0 +1,17 @@
+{
+	"type":"floor",
+	"name":"Chromic Acid",
+	"variants":0,
+
+	"speedMultiplier":0.75,
+	"drownTime":90,	
+
+	"statusEffect":"tarred",
+	"color":"#d74a72",
+	"statusDuration":240,
+	"isLiquid":true,	
+	"cacheLayer":"water",
+	"edge":"stone",
+	"blendGroup":"stone",
+	"liquidDrop":"chromic-liquid"
+}

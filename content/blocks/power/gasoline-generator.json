@@ -1,0 +1,41 @@
+{
+	"type":"SingleTypeGenerator",
+	"name":"Gasoline Generator",
+	"description":"a good form of energy, but need time to make",
+
+	"size":3,
+	"health":1050,
+	"alwaysUnlocked":true,
+	"HasPower":true,
+	"hasLiquids":true,
+	"hasitems":true,
+	"powerProduction":40,
+	"itemDuration":60,
+	"ramdomlyExplode":false,
+	"liquidCapacity":16,
+	
+	"consumes":{
+		 "items":{
+		 	"items":[
+				{"item":"solid-residue","amount":1},
+			]
+		 },
+
+
+		"liquid":{"liquid":"gasoline","amount":0.13},
+
+	},
+
+	"requirements":[
+		{"item":"lead","amount":350},
+		{"item":"clay","amount":200},
+		{"item":"metaglass","amount":200},
+		{"item":"titanium","amount":150},
+		{"item":"silicon","amount":125},
+
+
+	],
+
+	"category":"power",
+	"research":"diesel-generator",
+}

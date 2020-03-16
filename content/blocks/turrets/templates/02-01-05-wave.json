@@ -1,0 +1,41 @@
+{
+	"type":"LiquidTurret",
+	"name":"Abelsonite Wave [Tier:2]",
+	"description":"Unfined",
+
+	"buildVisibility":"debugOnly",
+
+	"size":2,
+	"reload":2,
+	"inaccuracy":3,
+	"shootCone":40,
+	"shootEffect":"shootLiquid",
+	"health":1560,
+	"shootSound":"splash",
+	"liquidCapacity":15,
+	"range":125,
+
+	"ammo":{
+
+		"slag":"slagShot",
+		"cryofluid":"cryoShot",
+		"oil":"oilShot",
+		"water":"waterShot",
+
+		// "01-liquid":{
+		// 	"type":"LiquidBulletType",
+		// 	"damage":5,
+		// 	"speed":2,
+		// 	"status":"burning",
+		// 	"backColor":"#d51e52",
+		// 	"frontColor":"#d51e52",
+		// }
+	},
+
+	"requirements":[
+		{"item":"copper","amount":50},
+	],
+	"category":"turret",
+	"research":"wave",
+	
+}

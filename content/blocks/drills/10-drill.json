@@ -1,0 +1,38 @@
+{
+	"name":"hyperdiamond Drill\n[T10]",
+	"description":"the most hard e powerfull drill that can mine all ores, need more time to warmup the better speed",
+	"health":1548,
+
+	"size":5,
+	"liquidCapacity":45,
+	"drillTime":175,
+	"warmupSpeed":0.0002,
+	"drawRim":true,
+	"hasPower":true,
+	"hasLiquid":true,
+	"rotateSpeed":13,
+	"drillEffect":"mineHuge",
+	"effectUpdate":"pulverizeRedder",
+	"idleSounfVolume":0.5,
+	"liquidBoostIntensity":1.10,
+	"alwaysUnlocked":true,// Just for debug
+	"heatColor":"#f9f9f9",
+
+	"tier":15,
+	"consumes":{
+		"power":3,
+		"liquid":{
+			"liquid":"water","amount":0.5,"optional":true,"booster":true,
+		}
+	},
+
+	"requirements":[
+		{"item":"09-fragment","amount":200},
+		{"item":"plastanium","amount":50},
+		{"item":"surge-alloy","amount":75},
+		{"item":"thorium","amount":75},
+		{"item":"titanium","amount":50}
+	],
+	"category":"production",
+	"research":"09-drill"
+}

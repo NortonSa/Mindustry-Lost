@@ -1,0 +1,9 @@
+{
+	"type":"OreBlock",
+	"variants":3,
+	"itemDrop":"06-02-quartz",
+	"playerUnmineable":true,
+	"oreDefault":true,
+	"oreThreshold":0.85,
+	"oreScale":18,
+}

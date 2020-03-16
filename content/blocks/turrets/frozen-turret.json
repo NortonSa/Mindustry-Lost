@@ -1,0 +1,129 @@
+{
+	"type":"ItemTurret",
+	"name":"frozen Turret",
+	"description":"undefined (i'll change the name bc this so bad)",
+
+	"size":2,
+	"health":600,
+	"range":240,
+	"recoil":2,
+	"shootCone":30,
+	"buildVisibility":"debugOnly",
+	
+	"ammo":{
+		"01-fragment":{
+			"type":"artilleryBulletType",
+			"backColor":"#df7927",
+			"frontColor":"#df7927",
+			"collides":true,
+			"bulletWidth":15,
+			"bulletHeight":10,
+			"bulletSprite":"shell",
+			"speed":3,
+			"recoil":2,
+			"damage":25,
+			"ammoMultiplier":2,
+			"reloadMultiplier":0.9,
+			"bulletWidth":5,
+			"bulletHeight":10,
+			"lifetime":75,
+			"fragbullets":2,
+			"fragBullet":{
+				"backColor":"#df7927",
+				"frontColor":"#df7927",
+				"speed":2,
+				"damage":6,
+				"splashDamage":1,
+				"splashDamageRadius":2,
+				"lifetime":1,
+				"hitEffect":"flakExplosion",			
+			}
+		},
+
+		"02-fragment":{
+
+		"backColor":"#76dff9",
+		"frontColor":"#76dff9",
+		"hitEffect":"hitFuse",
+		"bulletHeight":12,
+		"bulletWidth":9,
+		"ammoMultiplier":1,
+		"reloadMultiplier":1,
+		"hitShake":2,
+		"inaccuracy":2,
+		"lifetime": 75,
+		"speed":3,
+		"recoil":1,
+		"fragBullets":1,
+			"fragBullet":{
+				"type":"liquidBulletType",
+				"liquid":"water",
+				"speed":0.5,
+				"lifetime":2,
+				"statusEffect":{
+					"color":"#76dff9",
+					"speedMultiplier":0.7,//decrease more than cryo,
+					"damage":0.2,
+					"effect":"freezing",
+				}
+			}
+
+		},
+			
+		"03-fragment":{
+
+		"backColor":"#e1f951",
+		"frontColor":"#e1f951",
+		"hitEffect":"hitLaser",
+		"bulletHeight":12,
+		"bulletWidth":9,
+		"ammoMultiplier":1,
+		"reloadMultiplier":1,
+		"hitShake":3,
+		"inaccuracy":2,
+		"lifetime": 65,
+		"speed":2.5,
+		"recoil":4,
+
+			"fragBullets":1,
+			"fragBullet":{
+				"surge":"lightning",
+				"speed":1,
+				"lifetime":2,
+				"hitEffect":"hitLaser",
+				"effect":"lightning",
+			},
+		},
+
+		"04-fragment":{
+
+			"backColor":"#ff659f",
+			"frontColor":"#ff659f",
+			"hitEffect":"hitLaser",
+			"bulletHeight":10,
+			"damage":25,
+			"bulletWidth":5,
+			"ammoMultiplier":1,
+			"reloadMultiplier":1,
+			"hitShake":3,
+			"inaccuracy":5,
+			"lifetime": 75,
+			"speed":2.5,
+			"recoil":4,
+
+			"fragBullets":1,
+			"fragBullet":{
+				"surge":"lightning",
+				"speed":1,
+				"lifetime":2,
+			}
+		}
+	},
+
+	"requirements":[
+		{"item":"copper","amount":10}
+	],
+	"category":"turret",	
+	"research":"lancer",
+
+}

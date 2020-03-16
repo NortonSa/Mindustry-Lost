@@ -1,0 +1,22 @@
+{
+	"type":"powerNode",
+	"name":"Zhejiang Tower",
+	"description":"A maior torre de transmissão do mundo,suporta até 4 nós",
+	
+	"health":240,
+	"size":3,
+	"laserRange":40,
+	"maxNodes":4,
+
+
+	"requirements":[
+		{"item":"clay","amount":40},
+		{"item":"titanium","amount":25},
+		{"item":"graphite","amount":20},
+		{"item":"surge-alloy","amount":15},
+	],
+	
+	"category":"power",
+	"research":"surge-tower"
+
+}

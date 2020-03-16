@@ -1,0 +1,17 @@
+{	
+	"type":"Wall",
+	"name":"Small Wall\n[T2]",
+	"description":"undefined",
+	"health":1150,
+	"size":1,
+	"alwaysUnlocked":true,  
+
+	"requirements":[
+		{"item":"02-fragment","amount":15},
+		{"item":"copper","amount":5},
+		{"item":"lead","amount":5},
+	],
+
+	"category":"defense",
+	"research":"01-small",
+}

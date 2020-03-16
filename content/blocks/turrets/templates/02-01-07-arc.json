@@ -1,0 +1,32 @@
+{
+	"type":"PowerTurret",
+	"name":"Abelsonite Meltdown [Tier:2]",
+	"description":"undefined",
+
+	"buildVisibility":"debugOnly",
+
+	"powerUse":1.5,
+	"targetAir":false,
+	"reload":25,
+	"range":90,
+	"recoil":1,
+	"rotatespeed":8,	
+	"size":1,
+	"heatColor":"#ff0000",
+
+	//about shoot
+	"shootType":"arc",
+	"shootCone":40,
+	"shootEffect":"lightningShoot",
+	"shootSound":"spark",
+
+
+	"requirements":[
+		
+		{"item":"copper","amount":75},
+		{"item":"lead","amount":75},
+	],
+
+	"category":"turret",
+	"research":"arc",
+}

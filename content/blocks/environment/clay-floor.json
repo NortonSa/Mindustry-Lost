@@ -1,0 +1,14 @@
+{
+	"type":"floor",
+	"name":"Clay",
+	"variants":3,
+	"color":"#6b6b6b",
+	"speedMultiplier":0.9,
+	"playerUnmineable":true,
+	"edge":"stone",
+	"attributes":{
+		//index heat,spores,water,oil
+		"array":[0,0.50,0,0]
+	},
+
+}

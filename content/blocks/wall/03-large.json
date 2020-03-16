@@ -1,0 +1,17 @@
+{	
+	"type":"Wall",
+	"name":"Medium Wall\n[T3]",
+	"description":"undefined",
+	"health":6440,
+	"size":2,
+	"alwaysUnlocked":true,  
+
+	"requirements":[
+		{"item":"03-fragment","amount":35}
+		{"item":"copper","amount":10},
+		{"item":"lead","amount":10},
+	],
+
+	"category":"defense",
+	"research":"03-small",
+}

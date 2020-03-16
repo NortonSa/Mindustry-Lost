@@ -1,0 +1,129 @@
+System.Lost{
+
+@this is just for make a system more easy to understand and use.
+	
+	tier:{
+						
+		Value:{
+					Tier 1 = ores less  than 2  hardness,
+					Tier 2 = ores equal than 3  hardenss,
+					Tier 3 = ores equal than 4  hardenss,
+					Tier 4 = ores equal than 5  hardenss,
+					Tier 5 = ores equal than 6  hardenss,
+					Tier 6 = ores equal than 7  hardenss,
+					Tier 7 = ores equal than 8  hardenss,
+					Tier 8 = ores equal than 9  hardenss,
+					Tier 9 = ores equal than 10 hardenss,
+					Tier 10 = ores more than 10 hardness, (Hyperdiamond),
+		}
+
+		BulletAttribute:{
+
+					Tier 1 = Fragmentação --> esse tipo de minerio fragmenta  5 balas cada uma com 5% do dano total
+					Tier 2 = freezing --> congela 
+					Tier 3 = shok --> efeito de shok da liga de surto
+					Tier 4 = burning ---> queimando 
+					Tier 5 = wet ---> molha
+					tier 6 = knockback ---> anormal
+					Tier 7 = Venon effect ---> same to burning but with color green
+					Tier 8 = Cursed effect ----> decrease Speed and burning effect but purple
+					Tier 9 = knockback, pierce, ----> gives a powerfull knockback and pierce bc is diamond
+					Tier 10 = every effects combined  i know its op 4 colors (red, blue, yellow, green)
+
+		}
+		FloorAttribute:{
+
+		}
+		Damage:{
+
+			//Compared to bullet more strong of the weapon
+
+				Tier 1 : +  25  % Damage
+				Tier 2 : +  50  % Damage
+				Tier 3 : +  75  % Damage
+				Tier 4 : +  100 % Damage
+				Tier 5 : +  125 % Damage
+				Tier 6 : +  150 % Damage
+				Tier 7 : +  175 % Damage
+				Tier 8 : +  200 % Damage
+				Tier 9 : +  225 % Damage
+				Tier 10 : + 250 % Damage
+		}
+
+		Health:[
+
+			{ Walls : equal than Damage },
+			{ production : 20% each tier},
+			{ weapon: 20% each tier },
+
+			Walls:{
+				
+				--> @this is the base of values winch i follow,
+				
+				surge 1x1 = 920
+				surge 2x2 = 3680
+				surge 3x3 = 7360 (calculated_not_sure)
+
+				T1 1x1 = 920 + 25 % = 920 + 230    = 	1150
+				T1 2x2 = 3680 + 25 % = 3680 + 920  = 	4600
+				T1 3x3 = 7360 + 25 % = 7360 + 1840 = 	9200 @ I don't know if i implement this (actually are invisible)
+
+				T2 1x1 = 1380	T2 2X2 = 5520	T3 3X3 = 11040
+
+				T3 1X1 = 1610	T3 2X2 = 6440	T3 3X3 = 12880
+
+				T4 1X1 = 1840	T4 2X2 = 7360	T4 3X3 = 14720
+
+				T5 1X1 = 2070 	T5 2X2 = 8280	T5 3X3 = 16560
+
+				T6 1X1 = 2300	T6 2X2 = 9200	T6 3X3 = 17400
+
+				T7 1X1 = 2530	T7 2X2 = 10120	T7 3X3 = 20240
+
+				T8 1X1 = 2760	T8 2X2 = 11040	T8 3X3 = 22080
+
+				T9 1X1 = 2990	T9 2X2 = 11960	T9 3X3 = 23920
+
+				T10 1X1 = 3220	T10 2X2 = 12880		T10 3X3 = 25760
+
+			}
+
+			Drills:{
+
+				T1 2x2 = 192	T2 2x2 = 230	T3 2x2 = 276
+
+				T4 3x3 = 432	T5 3x3 = 518	T6 3x3 = 624
+
+				T7 4x4 = 768	T8 4x4 = 922	T9 4x4 = 1106
+
+							   T10 5x5 = 1548
+
+			}
+		],
+
+	]
+}
+
+
+Todo.list:{
+
+		@Important todoNow:{
+
+			- adicionar icon.png para mostrar um icone na lista do simmo
+			- Arrumar tabela de preços de custo 
+			- achar uma função para os minérios de tier 1 ao 10
+			- criar boss chamado nemessis,
+
+	        
+		
+		}
+
+		@Todo Late:{
+			
+			- achar som para frost turrent ("som de magia de gelo"),
+
+
+			@Not Much Important : pesquisar sobre Pechblenda
+		}		
+
+}

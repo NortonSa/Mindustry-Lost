@@ -1,0 +1,20 @@
+{	
+	"type":"Wall",
+	"name":"Huge Wall\n[T1]",
+	"description":"undefined",
+	
+	"health":9200,
+	"size":3,
+	// "buildVisibility":"sandboxOnly",
+	"alwaysUnlocked":true,  
+	
+	"requirements":[
+		{"item":"01-fragment","amount":125}
+		{"item":"copper","amount":25},
+		{"item":"lead","amount":25},
+	],
+
+// 	"category":"defense",
+// 	"research":"01-small",
+// 
+}

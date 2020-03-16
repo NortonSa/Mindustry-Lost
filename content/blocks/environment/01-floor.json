@@ -1,0 +1,23 @@
+{
+	"type":"floor",
+	"name":"[#d51e52]Abelsonite Stone[]",
+	"variants":3,
+	"cacheLayer":"normal",
+	"oreDefault":true,
+	"oreScale":25,	//(Quantidade e escala em que esse minerio aparece no editor)
+	"oreTrheshold":30,
+	"playerUnmineable":true,//velocidade ao andar sobre
+	"speedMultiplier":0.5,
+	// "floating":true, // se ele flutua, igual a bomba d água
+	"attributes":{"array":[0,0,0.65,0]},	//1- valor heat (calor),2-valor spores,3-water , 4-oil
+	"color":"#d51e52",
+}
+	// "damageTaken":0,	//dano tomado ao andar sobre 
+	//"drownTime":0,	//tempo para se afogar nesse chao
+	//"statusEffect":"none",	//efeito causado ao andar nesse chao
+	//"statusDuration":0,
+	// "isLiquid":false,	
+	// "cacheLayer":"normal",
+	//"edge":"stone", se ele nao desenhara bordas proximos as pedras
+	//"liquidDrop":"none",
+	//"itemDrop":"none",

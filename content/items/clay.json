@@ -1,0 +1,12 @@
+{
+	"type":"material",
+	"name":"Clay",
+	"description":"Muito utilizado para construções",	
+	"color":"#6b6b6b",
+	
+	"flammability":0.1,
+	"explosiveness":0.2,
+	"radioactivity":0,
+
+
+}

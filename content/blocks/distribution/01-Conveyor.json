@@ -1,0 +1,17 @@
+{
+	"type":"conveyor",
+	"name":"[#d51e52]Abelsonite conveyor",
+	"speed":0.10,
+	"itemCapacity":4,
+	"unloadable":true,//se descarregadores funcionam neste bloco
+	
+	"requirements":[
+		{"item":"copper","amount":15}
+		// {"item":"name","amount":0}
+		// {"item":"name","amount":0}
+	],
+
+
+	"category":"distribution",
+	"reserach":"titanium-conveyor",
+}

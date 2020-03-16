@@ -1,0 +1,9 @@
+{
+	"type":"OreBlock",
+	"variants":3,
+	"itemDrop":"01-02-aluminite",
+	"playerUnmineable":true,
+	"oreThreshold":0.85,
+	"oreScale":18,
+	"oreDefault":true,
+}

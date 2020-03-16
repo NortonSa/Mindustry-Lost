@@ -1,0 +1,13 @@
+{
+	"type":"material",
+	//"type":"resource", (não entra no nucleo)
+	"name":"Alunite\n[T3]",
+	"description":"A normal material",
+	"color":"#bfd826",
+	"explosiveness":0,
+	"radioactivity":0,
+	"flammability":0,
+	"hardness":8,
+	"cost":2, 	//usado para calcular os horários dos locais; 1 custo = 1 tick adicionado ao tempo de criação
+	"alwaysUnlocked":false,	//se esse item estara sempre desbloqueado,
+}

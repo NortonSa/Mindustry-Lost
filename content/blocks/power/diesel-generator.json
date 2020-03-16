@@ -1,0 +1,41 @@
+{
+	"type":"SingleTypeGenerator",
+	"name":"diesel Generator",
+	"description":"geenerate energy with diesel",
+	"size":4,
+	"sync":true,
+
+	//about input
+	"itemDuration":850,
+	"liquidCapacity":24,
+	"minLiquidEfficiency":0.1,
+	"maxLiquidEfficiency":0.5,
+
+	"powerProduction":20,
+	"generateEffect":"generatespark",
+	"updateEffect":"fuelburn",
+
+	"consumes":{
+		 "items":{
+		 	"items":[
+				{"item":"solid-residue","amount":1}
+		 	]
+		},
+
+		"liquid":{
+			"liquid":"diesel","amount":0.134},
+	},
+
+	"requirements":[
+		{"item":"copper","amount":250},
+		{"item":"clay","amount":175},
+		{"item":"silicon","amount":150},
+		{"item":"thorium","amount":125},
+		{"item":"graphite","amount":125},
+	],
+
+	"ramdomlyExplode":false,
+	"category":"power",
+	"research":"combustion-generator",
+
+}

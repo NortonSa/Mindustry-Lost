@@ -1,0 +1,13 @@
+{
+	"name":"Lava",
+	"description":"Um material utilizado para gerar energia, pode ser encontrado em vulcões ou em cavernas",
+	
+	"flammability":1,
+	"heatCapacity":0,
+	"temperature":1,
+	"explosiveness":2,
+	"viscosity":0.7,
+	"effect":"melting",
+
+	"color":"#ffb04a"
+}
