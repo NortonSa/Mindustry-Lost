@@ -1,7 +1,7 @@
 # ***Lost Expansion***
 
 ![Version](https://img.shields.io/github/v/tag/NortonSa/Mindustry-Lost?color=1&label=release)
-![Size](https://img.shields.io/github/repo-size/NortonSA/Mindustry-Lost)
+![Contributors](https://img.shields.io/github/contributors/NortonSa/Mindustry-Lost)
 
 ![Logo](Github/Github-Background/ReadmeBackground.png)
 
