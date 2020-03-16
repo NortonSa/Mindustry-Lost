@@ -1,7 +1,6 @@
-# ***Lost Expansion*** <img align="right" width="76" height="20" src="https://img.shields.io/github/stars/NortonSa/Mindustry-Lost?style=social">
-
+# ***Lost Expansion*** 
 ![Contributors](https://img.shields.io/github/contributors/NortonSa/Mindustry-Lost)
-![Version](https://img.shields.io/github/v/tag/NortonSa/Mindustry-Lost?color=1&label=release)
+![Version](https://img.shields.io/github/v/tag/NortonSa/Mindustry-Lost?color=1&label=release)&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;![Stars](https://img.shields.io/github/stars/NortonSa/Mindustry-Lost?style=social)
 
 ![Logo](Github/Github-Background/ReadmeBackground.png)
 
@@ -34,7 +33,7 @@ They will always be welcome, preferably sprites as they are the ones that take t
 
 ## **Sumario**
 
-* [TodoList](https://github.com/NortonSa/Mindustry-Lost/blob/master/TODO.md)
+* [TodoList](https://github.com/NortonSa/Mindustry-Lost/blob/master/TODO.md)&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
 * [Ideas](https://github.com/NortonSa/Mindustry-Lost)
 * [English Version](#en)
 * [Chinese Version](#Cn)
