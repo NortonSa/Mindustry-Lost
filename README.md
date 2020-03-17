@@ -1,6 +1,8 @@
 # ***Lost Expansion*** 
+
 ![Contributors](https://img.shields.io/github/contributors/NortonSa/Mindustry-Lost)
-![Version](https://img.shields.io/github/v/tag/NortonSa/Mindustry-Lost?color=1&label=release)&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;![Stars](https://img.shields.io/github/stars/NortonSa/Mindustry-Lost?style=social)
+![Version](https://img.shields.io/github/v/tag/NortonSa/Mindustry-Lost?color=1&label=release)&ensp;&ensp;
+![Stars](https://img.shields.io/github/stars/NortonSa/Mindustry-Lost?style=social)
 
 ![Logo](Github/Github-Background/ReadmeBackground.png)
 
