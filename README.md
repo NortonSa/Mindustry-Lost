@@ -1,7 +1,8 @@
-# ***Lost Expansion***
+# ***Lost Expansion*** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Stars](https://img.shields.io/github/stars/NortonSA/Mindustry-lost?style=social)
 
 ![Version](https://img.shields.io/github/v/tag/NortonSa/Mindustry-Lost?color=1&label=release)
 ![Size](https://img.shields.io/github/repo-size/NortonSA/Mindustry-Lost)
+
 
 ![Logo](Github/Github-Background/ReadmeBackground.png)
 
@@ -28,8 +29,6 @@ A mod focused on vanilla experience, all items added will be properly balanced f
 ### contribution
 They will always be welcome, preferably sprites as they are the ones that take the longest, so if you want to contribute, the due credit will be mentioned
 > Discord ***iow_(NortonSa) #5648***
-
-
 # *Mindustry Lost [<a name="Pt-br"></a>Pt-Br]*
 
 ## **Sumario**
