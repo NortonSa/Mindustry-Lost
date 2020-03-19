@@ -1,0 +1,52 @@
+{
+	"type":"BurstTurret",
+	"name":"Phalanx CIWS",
+	"description":"Uma torre de misseis forte, atira varios misseis que causam knockback",
+
+	"burstSpacing":8,
+	"size":3,
+	"health":1840,
+	"recoil":2,
+	"shots":8,
+	"range":240,
+	"reload":75,
+	"shotCone":30,
+	"targetAir":true,
+	"targetGround":false,
+	"inaccuracy":7,
+	"xRand":10,
+	"shotShake":0.5,
+	"shootSound":"missile",
+	"ammo":{
+	
+		"metaglass":{
+			"type":"missileBulletType",
+			"speed":3,
+			"lifetime":160,
+			"recoil":2,
+			"damage":12,
+			"backColor":"#ffffff",
+			"frontColor":"#ffffff",
+			"trailColor":"#ffffff",
+			"hitEffect":"flakExplosion",
+			"knockback":4,
+			"bulletWidth":9,
+			"bulletHeight":13,
+			"homingRange":80,
+			"splashDamage":20,
+			"splashDamageRadius":5,
+			"fragBullets":3,
+			"fragBullet":"glassFrag",
+		}
+	},
+
+	"requirements":[
+		{"item":"lead","amount":225}
+		{"item":"clay","amount":175}
+		{"item":"silicon","amount":100}
+		{"item":"plastanium","amount":50}
+	],
+
+	"category":"turret",
+	"research":"swarmer",
+}
