@@ -27,7 +27,7 @@
 
 A mod focused on vanilla experience, all items added will be properly balanced for a better experience. So enjoy
 
-### contribution
+## contribution
 They will always be welcome, preferably sprites as they are the ones that take the longest, so if you want to contribute, the due credit will be mentioned
 > Discord ***iow_(NortonSa) #5648***
 # *Mindustry Lost [<a name="Pt-br"></a>Pt-Br]*
@@ -51,37 +51,34 @@ They will always be welcome, preferably sprites as they are the ones that take t
 	
 Um mod focado em vanilla experience, todos os itens adicionados estarão devidamente balanceados para uma melhor experiência. Entao aproveite
 
-
-### contribuição
+## **contribuição**
 Sempre serão bem vindas, de preferencia sprites pois são os que mais demoram, enfim caso queira contribuir será referido o devido credito
 > Discord **_iow_NortonSa #5648_**
 
 # *Mindustry Lost [<a name="Ru"></a>RU] (Google_Translator)*
 
-## ** Резюме **
+## ***Резюме***
 * [TodoList](https://github.com/NortonSa/Mindustry-Lost/blob/master/TODO.md)
 * [Идеи](https://github.com/NortonSa/Mindustry-Lost)
 * [Chinese Version](#Cn)
 * [English Version](#en)
 * [Portuguese Version](#Pt-br)
 
-## Как установить?
+## ***Как установить?***
 
 1. Скопируйте имя в буфер обмена: `NortonSa / Mindustry-Lost`
 2. откройте Mindustry на вашем устройстве
 3. открыть меню `Mods` ->` Import github Mod`
 4. Вставьте текст
 
-## ** описание **
+## ***описание***
 
 Мод, ориентированный на опыт ванили, все добавленные предметы будут должным образом сбалансированы для лучшего опыта. Так что наслаждайтесь
 
 
-### вклад
+### ***вклад***
 Они всегда будут приветствоваться, желательно спрайты, так как они занимают больше всего времени, поэтому, если вы хотите внести свой вклад, будет упомянуто должное
 > Discord **_iow_NortonSa #5648_**
-
-
 
 # *Mindustry Lost [<a name="Cn"></a>CN] (Google_translator)*
 
