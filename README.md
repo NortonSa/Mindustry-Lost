@@ -1,8 +1,7 @@
-# ***Lost Expansion*** 
+# ***Lost Expansion***
 
-![Contributors](https://img.shields.io/github/contributors/NortonSa/Mindustry-Lost)
-![Version](https://img.shields.io/github/v/tag/NortonSa/Mindustry-Lost?color=1&label=release)&ensp;&ensp;
-![Stars](https://img.shields.io/github/stars/NortonSa/Mindustry-Lost?style=social)
+![Version](https://img.shields.io/github/v/tag/NortonSa/Mindustry-Lost?color=1&label=release)
+![Size](https://img.shields.io/github/repo-size/NortonSA/Mindustry-Lost)
 
 ![Logo](Github/Github-Background/ReadmeBackground.png)
 
@@ -35,7 +34,7 @@ They will always be welcome, preferably sprites as they are the ones that take t
 
 ## **Sumario**
 
-* [TodoList](https://github.com/NortonSa/Mindustry-Lost/blob/master/TODO.md)&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+* [TodoList](https://github.com/NortonSa/Mindustry-Lost/blob/master/TODO.md)
 * [Ideas](https://github.com/NortonSa/Mindustry-Lost)
 * [English Version](#en)
 * [Chinese Version](#Cn)
