@@ -41,7 +41,6 @@
 			"trailColor":"#84e9ef",
 			"speed":2.5,
 			"bulletShrink":0.3,
-			"bulletShrink":0.3,
 			"bulletWidth":7,
 			"bulletHeight":10,
 			"lifetime":75,

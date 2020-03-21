@@ -68,7 +68,7 @@
 |:---------------:|
 |     03/16/20    |
 
-## *v0.4 Turrets* :white_check_mark:	
+## *v0.4.0 Turrets* :heavy_check_mark:	
 
 - [x] ***New towers***
 	- [x] ~ Electric artillery ~ I will change size -> 3x3 and sprite, of course
@@ -84,17 +84,19 @@
 |:------------:|
 |  18/06/2020  |
 
-## *v0.5 Units* :white_check_mark:	
+## *v0.5.0 Units* :white_check_mark:	
 
-- [ ] ***new Ground and air Units (same behavior but diferents Sprites)***
-- [ ] ***try new bosses at least 1 ## unconfirmed***
-- [ ] ***factory mineUnits ( fast,little and can mine a few itens )***
+- [x] ***new Ground Unit (same behavior but diferents Sprites)***
+	- [x] Sniper (long range, incendiary bullets),
+- [x] ***new air units***
+	- [x] aerial chimera
+	- [x] sky raven (BOSS)
 
 |    Done      |
 |:------------:|
-|  ??/??/2020  |
+|  21/03/2020  |
 
-## *v0.6 mech pads* :white_check_mark:	
+## *v0.6.0 mech pads* :white_check_mark:	
 
 - [ ] ***new mech pads for mining***
 - [ ] ***new mech pad like Vtol airplane,***
@@ -104,7 +106,7 @@
 |:------------:|
 |  ??/??/2020  |
 
-## *v0.7 menders and force projectors more effectively* :white_check_mark:	
+## *v0.7.0 menders and force projectors more effectively* :white_check_mark:	
 
 - [ ] ***new mender what gives 25% more eficience of base common, need 3x3 (boostItem = titanium) Color blue***
 - [ ] ***override projector gives 25% (boostItem =  titanium ) Color blue***
@@ -117,7 +119,7 @@
 |:------------:|
 |  ??/??/2020  |
 
-## *v0.8 better version of "Passive Units"* :white_check_mark:	
+## *v0.8.0 better version of "Passive Units"* :white_check_mark:	
 
 - [ ] ***build phanton***
 - [ ] ***draug***
@@ -127,7 +129,7 @@
 |:------------:|
 |  ??/??/2020  |
 
-## *v0.9 factorys units* :white_check_mark:	
+## *v0.9.0 factorys units* :white_check_mark:	
 
 - [ ] ***new factory 4x4 can spawn reaper or other boss unit (unconfirmed)***
 - [ ] ***fly unit (rapida com misseis guiados)***
@@ -137,7 +139,7 @@
 |:------------:|
 |  ??/??/2020  |
 
-## *1.0 Campaing* :white_check_mark:	
+## *1.0.0 Campaing* :white_check_mark:	
 
 - [ ] ***New maps for campaing***
 
@@ -146,7 +148,7 @@
 |:------------:|
 |  ??/??/2020  |
 
-## ***1.1 Fix*** :white_check_mark:	
+## ***1.1.0 Fix*** :white_check_mark:	
 
 - [ ] ***Sprites in general***
 - [ ] ***Update Efficiency PLanner***
@@ -158,7 +160,7 @@
 |:------------:|
 |  ??/??/2020  |
 
-## ***1.2***?? :white_check_mark:
+## ***1.2.0***?? :white_check_mark:
 
 
 # ***TODO [<a name="Pt-br"><a/>Pt-Br]***
@@ -245,15 +247,17 @@
 |:--------------:|
 | 18 / 03 / 2020 |
 
-## ***v0.5.0 Unidades*** :white_check_mark:	
+## ***v0.5.0 Unidades*** :heavy_check_mark:	
 
-- [ ] ***novas unidades terrestres e aéreas (mesmo comportamento, mas diferentes sprites)***
-- [ ] ***tente novos chefes pelo menos 1 ## não confirmados***
-- [ ] ***factory mineUnits (rápido, pequeno e pode extrair alguns itens)***
+- [x] ***novas unidade terrestre (mesmo comportamento, mas diferentes sprites)***
+	- [x] Sniper (long range, incendiary Bullets)
+- [x] ***novas unidades aéreas***
+	- [x] chimera aerial
+	- [x] sky raven (BOSS)
 
 |    completo    |
 |:--------------:|
-| ?? / ?? / 2020 |
+| 21 / 03 / 2020 |
 
 ## ***v0.6.0 Mech Pad*** :white_check_mark:	
 
@@ -282,6 +286,7 @@
 
 - [ ] ***phanton***
 - [ ] ***draug***
+	- [ ] tiny Draug (rápido, pequeno e pode extrair alguns minérios) 
 - [ ] ***Spirit***
 
 |    completo    |
