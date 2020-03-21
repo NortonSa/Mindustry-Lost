@@ -84,7 +84,7 @@
 |:------------:|
 |  18/06/2020  |
 
-## *v0.5.0 Units* :white_check_mark:	
+## *v0.5.0 Units* :heavy_check_mark:	
 
 - [x] ***new Ground Unit (same behavior but diferents Sprites)***
 	- [x] Sniper (long range, incendiary bullets),
