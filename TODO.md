@@ -1,12 +1,10 @@
-		
 # ***TODO [<a name="en"><a/>En]***
 
 ## Sumary
 
 - [Portuguese Version](#Pt-br)
 
-## *v0.1.0 Focus in build the world* :heavy_check_mark:
-				
+## *v0.1.0 Focus in build the world* :heavy_check_mark:				
 - [x] ***18 new ores***
 	- [x] tier 1 to 10								
 - [x] ***3 wall per tier 30 total***
@@ -87,7 +85,7 @@
 ## *v0.5.0 Units* :heavy_check_mark:	
 
 - [x] ***new Ground Unit (same behavior but diferents Sprites)***
-	- [x] Sniper (long range, incendiary bullets),
+	- [x] Sniper (long range, incendiary bullets)
 - [x] ***new air units***
 	- [x] aerial chimera
 	- [x] sky raven (BOSS)
@@ -99,6 +97,8 @@
 ## *v0.6.0 mech pads* :white_check_mark:	
 
 - [ ] ***new mech pads for mining***
+	- [ ] cargo ship (can mine high quanties of resources)
+	- [ ] cargo mech pad a 2x2 construction
 - [ ] ***new mech pad like Vtol airplane,***
 - [ ] ***new tank mach pad (more life, less damage)***
 
@@ -139,9 +139,10 @@
 |:------------:|
 |  ??/??/2020  |
 
-## *1.0.0 Campaing* :white_check_mark:	
+## *1.0.0 Campaing and bundles* :white_check_mark:	
 
 - [ ] ***New maps for campaing***
+- [ ] ***bundles in En/Pt-Br***
 
 
 |     Done     |
@@ -303,10 +304,10 @@
 |:--------------:|
 | ?? / ?? / 2020 |
 
-## *v1.9.0 Campaing*
+## *v1.9.0 Campaing and bundles* :white_check_mark:	
 
-- [ ] ***Novos mapas para campanha*** :white_check_mark:	
-
+- [ ] ***Novos mapas para campanha***
+- [ ] ***bundles in en and pt-br***
 
 |    completo    |
 |:--------------:|
