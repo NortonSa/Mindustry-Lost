@@ -94,19 +94,21 @@
 |:------------:|
 |  21/03/2020  |
 
-## *v0.6.0 mech pads* :white_check_mark:	
+## *v0.6.0 mech pads* :heavy_check_mark:	
 
 - [x] ***new mech pads for mining***
 	- [x] cargo ship (can mine high quanties of resources)
 	- [x] cargo mech pad 2x2 (block)
-- [ ] ***new mech pad like Vtol airplane,***
-	- [x] vtol
-	- [x] vtol mech pad 3x3 (block)
-- [ ] ***new tank mech pad (more life, less damage)***
+- [x] ***new mech pad like Vtol airplane,***
+	- [x] vtol ship
+	- [x] vtol ship pad 3x3 (block)
+- [x] ***new tank mech pad (more life, less damage)***
+	- [x] healer mech
+	- [x] healer mech pad
 
 |     Done     |
 |:------------:|
-|  ??/??/2020  |
+|  24/03/2020  |
 
 ## *v0.7.0 menders and force projectors more effectively* :white_check_mark:	
 
@@ -263,15 +265,21 @@
 |:--------------:|
 | 21 / 03 / 2020 |
 
-## ***v0.6.0 Mech Pad*** :white_check_mark:	
+## ***v0.6.0 Mech Pad*** :heavy_check_mark:	
 
-- [ ] ***novos blocos mecânicos para mineração***
-- [ ] ***novo teclado mecânico como o avião Vtol,***
-- [ ] ***novo tanque mach pad (mais vida, menos danos)***
-
+- [x] ***novos ship para mineração***
+	- [x] cargo ship
+	- [x] cargo ship Pad
+- [x] ***novo ship Vtol***
+	- [x] vtol ship
+	- [x] vtol ship pad
+- [x] ***novo tanque mach pad (mais vida, menos danos)***
+	- [x] healer
+	- [x] healer ship pad
+	
 |    completo    |
 |:--------------:|
-| ?? / ?? / 2020 |
+| 23 / 03 / 2020 |
 
 ## ***v0.7.0 reparadores e projetores de força com mais eficiência*** :white_check_mark:	
 
