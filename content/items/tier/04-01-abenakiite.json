@@ -1,13 +1,13 @@
 {
-	"type":"material",
-	//"type":"resource", (não entra no nucleo)
-	"name":"Abenakiíte\n[T4]",
-	"description":"A normal material",
+	"type": "material",
+	//"type": "resource", (não entra no nucleo)
+	"name": "Abenakiíte\n[T4]",
+	"description": "A normal material",
 	"color":"#ff659f",
-	"explosiveness":0,
-	"radioactivity":0,
-	"flammability":0,
-	"hardness":9,
-	"cost":3, 	//usado para calcular os horários dos locais; 1 custo = 1 tick adicionado ao tempo de criação
-	"alwaysUnlocked":false,	//se esse item estara sempre desbloqueado,
+	"explosiveness": 0,
+	"radioactivity": 0,
+	"flammability": 0,
+	"hardness": 9,
+	"cost": 3, 	//usado para calcular os horários dos locais; 1 custo = 1 tick adicionado ao tempo de criação
+	"alwaysUnlocked": false,	//se esse item estara sempre desbloqueado,
 }

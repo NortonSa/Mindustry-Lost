@@ -1,37 +1,37 @@
 {
-	"type":"GenericSmelter",
-	"name":"Upgrade Smelter\n[T1]",
-	"description":"upgrade to next Tier Ore",
-	"itemCapacity":12,
+	"type": "GenericSmelter",
+	"name": "Upgrade Smelter\n[T1]",
+	"description": "upgrade to next Tier Ore",
+	"itemCapacity": 12,
 	
-	"hasItem":true,
-	"hasPower":true,
-	"craftTime":60,
-	"size":2,
-	"craftEffect":"smeltsmoke",
+	"hasItems": true,
+	"hasPower": true,
+	"craftTime": 60,
+	"size": 2,
+	"craftEffect": "smeltsmoke",
 	"flameColor":"#ff9a48",
 
 	"consumes":{
-		"power":1.3,
+		"power": 1.3,
 		
 		"items":{
 			"items":[
-				{"item":"01-01-altaite","amount":3,},
-				{"item":"01-02-aluminite","amount":3,}
+				{"item": "01-01-altaite", "amount": 3,},
+				{"item": "01-02-aluminite", "amount": 3,}
 			],
 		},
 	},
 
 	"requirements":[
-		{"item":"silicon","amount":15},
-		{"item":"plastanium","amount":10},
-		{"item":"graphite","amount":20},
+		{"item": "silicon", "amount": 15},
+		{"item": "plastanium", "amount": 10},
+		{"item": "graphite", "amount": 20},
 	],
 
-	"outputItem":{"item":"01-fragment","amount":1},
+	"outputItem":{"item": "01-fragment", "amount": 1},
 
 
-	"category":"crafting",
-	"research":"silicon-smelter"
+	"category": "crafting",
+	"research": "silicon-smelter"
 
 }

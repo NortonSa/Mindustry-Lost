@@ -1,9 +1,9 @@
 {
-	"name":"Mercury",
-	"Description":"mercurio solidificado, resistente, util para produção de munição",
-	"flammability":0.5,
-	"explosiveness":0.1,
-	"radioactivity":0.2,
+	"name": "Mercury",
+	"Description": "mercurio solidificado, resistente, util para produção de munição",
+	"flammability": 0.5,
+	"explosiveness": 0.1,
+	"radioactivity": 0.2,
 	
 	"color":"#ffffff",
 }

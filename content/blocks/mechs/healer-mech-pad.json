@@ -1,0 +1,24 @@
+{
+	"type": "mechPad",
+	"mech": "healer",
+	"name": "Healer Mech Pad",
+	"description": "transforma em uma aéronave vtol a qual tem grande poder de fogo",
+	"size": 3,	
+	
+	"consumes":{
+		"power": 2
+	},
+
+
+	"requirements":[
+		{"item": "copper", "amount": 175},
+		{"item": "lead", "amount": 175},
+		{"item": "titanium", "amount": 150},
+		{"item": "silicon", "amount": 150},
+		{"item": "plastanium", "amount": 125},
+	],
+
+	"category": "upgrade",
+	"research": "glaive-ship-pad"
+
+}

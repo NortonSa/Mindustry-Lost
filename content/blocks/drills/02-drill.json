@@ -1,39 +1,39 @@
 {
-	"type":"Drill",
-	"name":"Drill\n[T2]",
-	"description":"Undefined",
-	//"hasPower":true,
-	"health":230,
-	"hasLiquid":true,
-	"hasItem":true,
-	"size":2,
-	"tier":7,
-	//"drawRim":true,
-	"liquidCapacity":4.5,
-	"warmupSpeed":0.003,
-	"drillEffect":"mine",
-	"rotateSpeed":6,
-	"heatColor":"ff5512",
+	"type": "Drill",
+	"name": "Drill\n[T2]",
+	"description": "Undefined",
+	//"hasPower": true,
+	"health": 230,
+	"hasLiquids": true,
+	"hasItems": true,
+	"size": 2,
+	"tier": 7,
+	//"drawRim": true,
+	"liquidCapacity": 4.5,
+	"warmupSpeed": 0.003,
+	"drillEffect": "mine",
+	"rotateSpeed": 6,
+	"heatColor": "ff5512",
 
-	"drillTime":285,
-	"liquidBoostIntensity":1.55,
-	"alwaysUnlocked":true,// Just for debug
+	"drillTime": 285,
+	"liquidBoostIntensity": 1.55,
+	"alwaysUnlocked": true,// Just for debug
 
 	"consumes":{
 		
-		//"power":2.2,
-		"liquid":{"liquid":"water","amount":0.025,"optional":true,"booster":true}
+		//"power": 2.2,
+		"liquid":{"liquid": "water", "amount": 0.025,"optional": true,"booster": true}
 	},
 
 	"requirements":[
-		{"item":"01-fragment","amount":30},
-		{"item":"titanium","amount":20},
-		{"item":"thorium","amount":35},
-		{"item":"surge-alloy","amount":5}
+		{"item": "01-fragment", "amount": 30},
+		{"item": "titanium", "amount": 20},
+		{"item": "thorium", "amount": 35},
+		{"item": "surge-alloy", "amount": 5}
 	],
 
-	"category":"production",
-	"research":"01-drill",
+	"category": "production",
+	"research": "01-drill",
 
 
 }

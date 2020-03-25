@@ -1,45 +1,44 @@
 {
-	"type":"BurstTurret",
-	"name":"Abelsonite Scatter [Tier: 2]",
-	"description":"undefined",
+	"type": "BurstTurret",
+	"name": "Abelsonite Scatter [Tier: 2]",
+	"description": "undefined",
 
-	"buildVisibility":"debugOnly",
+	"buildVisibility": "debugOnly",
 	
 
-	"health":600,
-	"reload":16,
-	"range":185,
-	"size":2,
-	"burstSpacing":5,
-	"targetGround":false,
-	"shootCone":40,
-	"incinerator":15,
-	"rotatespeed":17,
-	"recoil":2,
-	"shots":3,
-	"shootSound":"shootSnap",
+	"health": 600,
+	"reload": 16,
+	"range": 185,
+	"size": 2,
+	"burstSpacing": 5,
+	"targetGround": false,
+	"shootCone": 40,
+	"rotatespeed": 17,
+	"recoil": 2,
+	"shots": 3,
+	"shootSound": "shootSnap",
 
 	"ammo":{
-		"scrap":"flakScrap",
-		"lead":"flakLead",
-		"metaglass":"flakGlass",
+		"scrap": "flakScrap",
+		"lead": "flakLead",
+		"metaglass": "flakGlass",
 		
 		"02-01-abelsonite":{
-			"type":"missileBulletType",
-			"damage":50,
-			"lifetime":240,
+			"type": "missileBulletType",
+			"damage": 50,
+			"lifetime": 240,
 			"trailColor":"#d51e52",
 			"backColor":"#d51e52",
 			"frontColor":"#d51e52",
-			"knockback":3,
+			"knockback": 3,
 		}
 
 	},
 
-	"requiremnts":[
-		{"item":"copper","amount":75}
+	"requirements":[
+		{"item": "copper", "amount": 75}
 	],
 
-	"category":"turret",
-	"research":"scatter"
+	"category": "turret",
+	"research": "scatter"
 }

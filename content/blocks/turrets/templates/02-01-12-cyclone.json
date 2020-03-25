@@ -1,57 +1,56 @@
 {
-	"type":"ItemTurret",
-	"name":"Abelsonite Cyclone [Tier 2]",
-	"description":"keep away",
+	"type": "ItemTurret",
+	"name": "Abelsonite Cyclone [Tier 2]",
+	"description": "keep away",
 
-     "buildVisibility":"debugOnly",
+     "buildVisibility": "debugOnly",
           
 	//turrent properties
-  	"xRand":3,
- 	"range":240,
- 	"size":3,
- 	"recoil":3,
- 	"inaccuracy":15,
- 	"shootCone":35,
- 	"shootSound":"shootSnap",
- 	"shots":3,
- 	"coolantMultiplier":6,
- 	"spread":5,
+  	"xRand": 3,
+ 	"range": 240,
+ 	"size": 3,
+ 	"recoil": 3,
+ 	"inaccuracy": 15,
+ 	"shootCone": 35,
+ 	"shootSound": "shootSnap",
+ 	"shots": 3,
+ 	"coolantMultiplier": 6,
+ 	"spread": 5,
 
  	//about type of ammmo
 	"ammo":{
 
-     "metaglass":"flakGlass",
-     "blast-compound":"flakExplosive",
-     "plastanium":"flakPlastic",
-     "surge-alloy":"flakSurge",
+     "metaglass": "flakGlass",
+     "blast-compound": "flakExplosive",
+     "plastanium": "flakPlastic",
+     "surge-alloy": "flakSurge",
 
      "02-01-abelsonite":{
-     	"type":"missileBulletType",
-     	"speed":3,
-          "keepVelocity":false,
-          "drag":0.002,
-     	"lifetime":200,
+     	"type": "missileBulletType",
+     	"speed": 3,
+          "keepVelocity": false,
+          "drag": 0.002,
+     	"lifetime": 200,
      	"trailColor":"#d51e52",
      	"backColor":"#d51e52",
      	"frontColor":"#d51e52",
-     	"bulletHeight":12,
-     	"bulletWidth":8,
-     	"damage":55,     
-     	"fragBullets":3,
-     	"ammoMultiplier":2,
-          "smokeEffect":"shootBigSmoke",
+     	"bulletHeight": 12,
+     	"bulletWidth": 8,
+     	"damage": 55,     
+     	"fragBullets": 3,
+     	"ammoMultiplier": 2,
+          "smokeEffect": "shootBigSmoke",
      	"fragBullet":{
-     		"metaglass":"flakGlass",
-     		"splashDamageRadius":12,
-     		"splashDamage":5
+     		"splashDamageRadius": 12,
+     		"splashDamage": 5
      	}}
 	},
 	
 	//cost to build etc
 	"requirements":[
-		{"item":"graphite","amount":50}
+		{"item": "graphite", "amount": 50}
 	],
 
-	"category":"turret",
-	"research":"cyclone"
+	"category": "turret",
+	"research": "cyclone"
 }

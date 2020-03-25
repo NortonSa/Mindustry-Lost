@@ -1,44 +1,44 @@
 {
-	"type":"GenericCrafter",
-	"name":"Diesel Centrifuge",
-	"description":"transform oil into diesel",
-	"health":360,
-	"size":2,	
-	"craftTime":60,	
-	"hasPower":true,
-	"hasItems":true,
-	"hasLiquids":true,
-	"outputsLiquid":true,
+	"type": "GenericCrafter",
+	"name": "Diesel Centrifuge",
+	"description": "transform oil into diesel",
+	"health": 360,
+	"size": 2,	
+	"craftTime": 60,	
+	"hasPower": true,
+	"hasItems": true,
+	"hasLiquids": true,
+	"outputsLiquid": true,
 
-	"sync":true,
+	"sync": true,
 
-	"liquidCapacity":10.8,
+	"liquidCapacity": 10.8,
 	
-	"craftEffect":"smeltsmoke",
-	"updateEffect":"smelt",	
-	"updateEffectChance":0.02,
+	"craftEffect": "smeltsmoke",
+	"updateEffect": "smelt",	
+	"updateEffectChance": 0.02,
 
-	"outputLiquid":{"liquid":"diesel","amount":5.6},
+	"outputLiquid":{"liquid": "diesel", "amount": 5.6},
 	
 	"consumes":{
-		"power":1.25,		
+		"power": 1.25,		
 		"items":{
 			"items":[
 				"coal/1",
 			],
 		},
 		
-		"liquid":{"liquid":"oil","amount":0.045}
+		"liquid":{"liquid": "oil", "amount": 0.045}
 	},
 	
 	"requirements":[
-		{"item":"clay","amount":50},
-		{"item":"lead","amount":30},
-		{"item":"copper","amount":30},
-		{"item":"titanium","amount":20}
+		{"item": "clay", "amount": 50},
+		{"item": "lead", "amount": 30},
+		{"item": "copper", "amount": 30},
+		{"item": "titanium", "amount": 20}
 
 	],
 	
-	"category":"crafting",
-	"research":"coal-centrifuge",
+	"category": "crafting",
+	"research": "coal-centrifuge",
 }

@@ -1,39 +1,39 @@
 {
-	"type":"Drill",
-	"name":"Drill\n[T6]",
-	"description":"undefined",
-	"health":624,
+	"type": "Drill",
+	"name": "Drill\n[T6]",
+	"description": "undefined",
+	"health": 624,
 	
-	"hasPower":true,
-	"hasLiquid":true,
-	"hasItem":true,
-	"drawRim":true,
-	"size":3,
-	"tier":11,
-	"rotateSpeed":10,
-	"warmupSpeed":0.003,
-	"liquidCapacity":9,
-	"drillEffect":"mine",
+	"hasPower": true,
+	"hasLiquids": true,
+	"hasItems": true,
+	"drawRim": true,
+	"size": 3,
+	"tier": 11,
+	"rotateSpeed": 10,
+	"warmupSpeed": 0.003,
+	"liquidCapacity": 9,
+	"drillEffect": "mine",
 	"heatColor":"#e4c488",
 
-	"drillTime":200,
-	"alwaysUnlocked":true,// Just for debug
-	"liquidBoostIntensity":1.35,
+	"drillTime": 200,
+	"alwaysUnlocked": true,// Just for debug
+	"liquidBoostIntensity": 1.35,
 
 	"consumes":{
 		
-		"power":2.7,
-		"liquid":{"liquid":"water","amount":0.5,"optional":true,"booster":true}
+		"power": 2.7,
+		"liquid":{"liquid": "water", "amount": 0.5,"optional": true,"booster": true}
 	},
 
 	"requirements":[
-		{"item":"05-fragment","amount":50},
-		{"item":"titanium","amount":25},
-		{"item":"plastanium","amount":20},
-		{"item":"surge-alloy","amount":10},
+		{"item": "05-fragment", "amount": 50},
+		{"item": "titanium", "amount": 25},
+		{"item": "plastanium", "amount": 20},
+		{"item": "surge-alloy", "amount": 10},
 
 	],
 
-	"category":"production",
-	"research":"05-drill",
+	"category": "production",
+	"research": "05-drill",
 }

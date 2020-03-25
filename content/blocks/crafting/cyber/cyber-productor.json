@@ -1,12 +1,12 @@
 {
-	"type":"GenericCrafter",
-	"name":"Cyber Productor",
-	"description":"A unknown tecnology",
+	"type": "GenericCrafter",
+	"name": "Cyber Productor",
+	"description": "A unknown tecnology",
 
-	"health":120,
-	"buildVisibility":"sandboxOnly",
+	"health": 120,
+	"buildVisibility": "sandboxOnly",
 
 	"outputItem":{
-		"item":"cyber-bullet","amount":1,
+		"item": "cyber-bullet", "amount": 1,
 	}
 }

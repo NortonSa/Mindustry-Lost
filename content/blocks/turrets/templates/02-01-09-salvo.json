@@ -1,48 +1,48 @@
 {
-      "type":"BurstTurret",
-      "name":"Abelsonite Salvo [Tier: 2]",
-      "description":"Undefined",
+      "type": "BurstTurret",
+      "name": "Abelsonite Salvo [Tier: 2]",
+      "description": "Undefined",
 
-      "buildVisibility":"debugOnly",
+      "buildVisibility": "debugOnly",
 
-      "size":2,
-      "range":165,
-      "restitution":0.03,
-      "ammoEjectBack":3,
-      "cooldown":0.03,
-      "recoil":3,
-      "shootShake":2,
-      "burstSpacing":3,
-      "shots":4,
-      "ammoUseEffect":"shellEjectBig",
-      "shootSound":"shootBig",
-      "health":700,
+      "size": 2,
+      "range": 165,
+      "restitution": 0.03,
+      "ammoEjectBack": 3,
+      "cooldown": 0.03,
+      "recoil": 3,
+      "shootShake": 2,
+      "burstSpacing": 3,
+      "shots": 4,
+      "ammoUseEffect": "shellEjectBig",
+      "shootSound": "shootBig",
+      "health": 700,
 
 
 
       "ammo":{
-            "copper":"standardCopper",
-            "graphite":"standardDense",
-            "pyratite":"standardIncendiary",
-            "silicon":"standardHoming",
-            "thorium":"standardThorium",
+            "copper": "standardCopper",
+            "graphite": "standardDense",
+            "pyratite": "standardIncendiary",
+            "silicon": "standardHoming",
+            "thorium": "standardThorium",
 
             "02-01-abelsonite":{
-                  "type":"missileBulletType",
-                  "damage":50,
-                  "hitsize":5,
-                  "speed":2,
-                  "lifetime":200,
+                  "type": "missileBulletType",
+                  "damage": 50,
+                  "hitSize": 5,
+                  "speed": 2,
+                  "lifetime": 200,
                   "backColor":"#d51e52",
                   "frontColor":"#d51e52",
                   "trailColor":"#d51e52",
             }
       },
       "requirements":[
-            {"item":"copper","amount":50}
+            {"item": "copper", "amount": 50}
       ],
-      "category":"turret",
-      "research":"salvo",
+      "category": "turret",
+      "research": "salvo",
 
 }
 

@@ -96,11 +96,13 @@
 
 ## *v0.6.0 mech pads* :white_check_mark:	
 
-- [ ] ***new mech pads for mining***
-	- [ ] cargo ship (can mine high quanties of resources)
-	- [ ] cargo mech pad a 2x2 construction
+- [x] ***new mech pads for mining***
+	- [x] cargo ship (can mine high quanties of resources)
+	- [x] cargo mech pad 2x2 (block)
 - [ ] ***new mech pad like Vtol airplane,***
-- [ ] ***new tank mach pad (more life, less damage)***
+	- [x] vtol
+	- [x] vtol mech pad 3x3 (block)
+- [ ] ***new tank mech pad (more life, less damage)***
 
 |     Done     |
 |:------------:|
@@ -139,7 +141,7 @@
 |:------------:|
 |  ??/??/2020  |
 
-## *1.0.0 Campaing and bundles* :white_check_mark:	
+## *1.9.0 Campaing and bundles* :white_check_mark:	
 
 - [ ] ***New maps for campaing***
 - [ ] ***bundles in En/Pt-Br***
@@ -149,8 +151,9 @@
 |:------------:|
 |  ??/??/2020  |
 
-## ***1.1.0 Fix*** :white_check_mark:	
+## ***1.9.1 Fix*** :white_check_mark:	
 
+- [ ] ***fix Rim sprites of Drills***
 - [ ] ***Sprites in general***
 - [ ] ***Update Efficiency PLanner***
 	- [ ] Implement full planner (Efficiency,Resources,Unit...)
@@ -161,7 +164,7 @@
 |:------------:|
 |  ??/??/2020  |
 
-## ***1.2.0***?? :white_check_mark:
+## ***1.10.1***?? :white_check_mark:
 
 
 # ***TODO [<a name="Pt-br"><a/>Pt-Br]***

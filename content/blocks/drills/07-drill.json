@@ -1,38 +1,38 @@
 {
-	"type":"Drill",
-	"name":"Drill\n[T7]",
-	"description":"undefined",
-	"health":768,
-	"hasPower":true,
-	"hasLiquid":true,
-	"hasItem":true,
-	"size":4,
-	"tier":12,
-	"liquidCapacity":12,
-	"drillEffect":"mineHuge",
-	"rotateSpeed":10,
-	"warmupSpeed":0.003,
+	"type": "Drill",
+	"name": "Drill\n[T7]",
+	"description": "undefined",
+	"health": 768,
+	"hasPower": true,
+	"hasLiquids": true,
+	"hasItems": true,
+	"size": 4,
+	"tier": 12,
+	"liquidCapacity": 12,
+	"drillEffect": "mineHuge",
+	"rotateSpeed": 10,
+	"warmupSpeed": 0.003,
 	"heatColor":"#87eac1",
 
-	"drawRim":true,
-	"drillTime":160,
-	"alwaysUnlocked":true,// Just for debug
-	"liquidBoostIntensity":1.3,
+	"drawRim": true,
+	"drillTime": 160,
+	"alwaysUnlocked": true,// Just for debug
+	"liquidBoostIntensity": 1.3,
 
 	"consumes":{
 		
-		"power":3,
-		"liquid":{"liquid":"water","amount":0.1,"optional":true,"booster":true}
+		"power": 3,
+		"liquid":{"liquid": "water", "amount": 0.1,"optional": true,"booster": true}
 	},
 
 	"requirements":[
-		{"item":"06-fragment","amount":75},
-		{"item":"plastanium","amount":20},
-		{"item":"titanium","amount":25},
-		{"item":"thorium","amount":30},
-		{"item":"surge-alloy","amount":15},
+		{"item": "06-fragment", "amount": 75},
+		{"item": "plastanium", "amount": 20},
+		{"item": "titanium", "amount": 25},
+		{"item": "thorium", "amount": 30},
+		{"item": "surge-alloy", "amount": 15},
 	],
 
-	"category":"production",
-	"research":"blast-drill",
+	"category": "production",
+	"research": "blast-drill",
 }

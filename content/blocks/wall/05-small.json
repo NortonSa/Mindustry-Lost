@@ -1,17 +1,17 @@
 {	
-	"type":"Wall",
-	"name":"Small Wall\n[T6]",
-	"description":"undefined",
-	"health":2070,
-	"size":1,
-	"alwaysUnlocked":true,  
+	"type": "Wall",
+	"name": "Small Wall\n[T6]",
+	"description": "undefined",
+	"health": 2070,
+	"size": 1,
+	"alwaysUnlocked": true,  
 
 	"requirements":[
-		{"item":"05-fragment","amount":15},
-		{"item":"copper","amount":5},
-		{"item":"lead","amount":5},
+		{"item": "05-fragment", "amount": 15},
+		{"item": "copper", "amount": 5},
+		{"item": "lead", "amount": 5},
 	],
 
-	"category":"defense",
-	"research":"04-small",
+	"category": "defense",
+	"research": "04-small",
 }

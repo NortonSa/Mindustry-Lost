@@ -1,16 +1,16 @@
 {
-	"type":"DoubleTurret",
-	"name":"Cyber duo",
-	"description":"A unknown tecnology",
+	"type": "DoubleTurret",
+	"name": "Cyber duo",
+	"description": "A unknown tecnology",
 	
-	"health":320,
-	"size":1,
-	"range":190,
+	"health": 320,
+	"size": 1,
+	"range": 190,
 	
-	"Buldvisibility":"sandboxOnly",
+	"buildVisibility": "sandboxOnly",
 
 	"ammo":{
-		"cyber-bullet":"standardCopper",
+		"cyber-bullet": "standardCopper",
 	},
 
 }

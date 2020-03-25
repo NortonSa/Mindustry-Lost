@@ -1,10 +1,9 @@
 {
-	"name":"gasoline",
-	"description":"uma refinação de gasoline",
-	"floating":true,
-	"viscosity":1.9,
-	"flammability":1,
-	"heatCapacity":0.9,
+	"name": "gasoline",
+	"description": "uma refinação de gasoline",
+	"viscosity": 1.9,
+	"flammability": 1,
+	"heatCapacity": 0.9,
 
 	"lightColor":"#818181",
 	"color":"#818181",

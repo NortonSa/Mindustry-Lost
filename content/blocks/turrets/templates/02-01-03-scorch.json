@@ -1,46 +1,46 @@
 {
-	"type":"ItemTurret",
-	"name":"Abelsonite Scorch[Tier: 2][]",
-	"description":"undefined",
+	"type": "ItemTurret",
+	"name": "Abelsonite Scorch[Tier: 2][]",
+	"description": "undefined",
 
-	"buildVisibility":"debugOnly",
+	"buildVisibility": "debugOnly",
 
-	"size":1,
-	"health":1200,
-	"recoll":0,
-	"range":75,
-	"reload":4.5,
-	"coolantMultiplier":2.5,
-	"shootCone":50,
-	"targetAir":false,
-	"ammoUseEffect":"none",
-	"shootSound":"flame",
+	"size": 1,
+	"health": 1200,
+	"recoil": 0,
+	"range": 75,
+	"reload": 4.5,
+	"coolantMultiplier": 2.5,
+	"shootCone": 50,
+	"targetAir": false,
+	"ammoUseEffect": "none",
+	"shootSound": "flame",
 
 	"consumes":{
-		"liquid":{"liquid":"water","amount":0.1,"optional":true,"booster":true}
+		"liquid":{"liquid": "water", "amount": 0.1,"optional": true,"booster": true}
 	},
 
 	"ammo":{
 
-		"coal":"basicFlame",
-		"pyratite":"pyraFlame",
+		"coal": "basicFlame",
+		"pyratite": "pyraFlame",
 
 		"02-01-abelsonite":{
-			"type":"basicBulletType",
-			"speed":15,
-			"damage":5,
-			"lifetime":42,
-			"bulletWidth":0.01,
-			"bulletHeight":0.01,
-			"ammoMultiplier":5,
-			"hitSize":8,
-			"pierce":true,
-			"status":"burning",
-			"drag":0.06,
-			"hitEffect":"hitFlameSmall",
-			"shootEffect":"shootSmallFlame",
-			"statusDuration":260,
-			"despawnEffect":"none"
+			"type": "basicBulletType",
+			"speed": 15,
+			"damage": 5,
+			"lifetime": 42,
+			"bulletWidth": 0.01,
+			"bulletHeight": 0.01,
+			"ammoMultiplier": 5,
+			"hitSize": 8,
+			"pierce": true,
+			"status": "burning",
+			"drag": 0.06,
+			"hitEffect": "hitFlameSmall",
+			"shootEffect": "shootSmallFlame",
+			"statusDuration": 260,
+			"despawnEffect": "none"
 
            
 		}
@@ -48,10 +48,10 @@
 
 	// cost to build
 	"requirements":[
-		{"item":"copper","amount":5}
+		{"item": "copper", "amount": 5}
 	],
 
 
-	"category":"turret",
-	"research":"scorch"
+	"category": "turret",
+	"research": "scorch"
 }

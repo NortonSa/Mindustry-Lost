@@ -1,40 +1,40 @@
 {
-    "type":"LaserTurret",
-    "name":"meltdown",
-    "description":"Abelsonite Meltdown[Tier:2]",
+    "type": "LaserTurret",
+    "name": "meltdown",
+    "description": "Abelsonite Meltdown[Tier: 2]",
 
     // just for use this caracateristics
-    "buildVisibility":"debugOnly",
+    "buildVisibility": "debugOnly",
 
-    "size":4,
-    "health":4000,
+    "size": 4,
+    "health": 4000,
 
-    "range":210,
-    "reload":80,
-    "firingMoveFract":0.5,
-    "coolantMultiplier":2,
-    "recoil":4,
-    "powerUse":13,
+    "range": 210,
+    "reload": 80,
+    "firingMoveFract": 0.5,
+    "coolantMultiplier": 2,
+    "recoil": 4,
+    "powerUse": 13,
 
     // about shoot and effects
-    "shootCone":40,
-    "shootShake":2,
-    "shootDuration":240,
-    "shootType":"meltdownLaser",
-    "shootEffect":"shootBigSmoke2",
-    "shootSound":"laserbig",
-    "activeSound":"beam",
+    "shootCone": 40,
+    "shootShake": 2,
+    "shootDuration": 240,
+    "shootType": "meltdownLaser",
+    "shootEffect": "shootBigSmoke2",
+    "shootSound": "laserbig",
+    "activeSound": "beam",
 
     "consumes":{
-        "liquid":{"liquid":"water","amount":1,"booster":true}
+        "liquid":{"liquid": "water", "amount": 1,"booster": true}
     },
     
     "requirements":[
       
-        {"item":"copper","amount":250}
+        {"item": "copper", "amount": 250}
     ],
 
-    "category":"turret",
-    "research":"meltdown",
+    "category": "turret",
+    "research": "meltdown",
 
 }

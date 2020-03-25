@@ -1,9 +1,9 @@
 {
-	"type":"OreBlock",
-	"variants":3,
-	"itemDrop":"01-01-altaite",
-	"playerUnmineable":true,
-	"oreThreshold":0.85,
-	"oreScale":18,
-	"oreDefault":true,
+	"type": "OreBlock",
+	"variants": 3,
+	"itemDrop": "01-01-altaite",
+	"playerUnmineable": true,
+	"oreThreshold": 0.85,
+	"oreScale": 18,
+	"oreDefault": true,
 }

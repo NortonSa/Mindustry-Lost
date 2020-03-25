@@ -1,35 +1,34 @@
 {
-	"type":"ArtilleryTurret",
-	"name":"Abelsonite Hail [Tier 2]",
-	"description":"undefined at momemnt",
+	"type": "ArtilleryTurret",
+	"name": "Abelsonite Hail [Tier 2]",
+	"description": "undefined at momemnt",
 	
-	"buildVisibility":"debugOnly",
+	"buildVisibility": "debugOnly",
 	
-	"size":1,
-	"range":275,
-	"recoil":2,
-	"reload":55,
-	"shootCone":10,
-	"health":300,
-	"inaccuracy":0.5,
-	"shootSound":"artillery",
+	"size": 1,
+	"range": 275,
+	"recoil": 2,
+	"reload": 55,
+	"shootCone": 10,
+	"health": 300,
+	"inaccuracy": 0.5,
+	"shootSound": "artillery",
 
 	"ammo":{
-		"graphite":"artilleryDense",
-		"silicon":"artilleryHoming",
-		"pyratite":"artilleryIncendiary",
+		"graphite": "artilleryDense",
+		"silicon": "artilleryHoming",
+		"pyratite": "artilleryIncendiary",
 
 		"02-01-abelsonite":{
-			"type":"artilleryBulletType",
-			"damage":60,
-			"hitsize":5,
-			"bulletWidth":12,
-			"bulletHeight":15,
-			"speed":2,
-			"splashDamage":30,
-			"splashDamageRadius":45,
+			"type": "artilleryBulletType",
+			"damage": 60,
+			"hitSize": 5,
+			"bulletWidth": 12,
+			"bulletHeight": 15,
+			"speed": 2,
+			"splashDamage": 30,
+			"splashDamageRadius": 45,
 			//about the color;
-			"trailColor":"#d51e52",
 			"frontColor":"#d51e52",
 			"backColor":"#d51e52",
 		}
@@ -37,10 +36,10 @@
 
 
 	"requirements":[
-		{"item":"copper","amount":35},
-		{"item":"lead","amount":60},
+		{"item": "copper", "amount": 35},
+		{"item": "lead", "amount": 60},
 	],
 
-	"research":"hail",
-	"category":"turret",
+	"research": "hail",
+	"category": "turret",
 }

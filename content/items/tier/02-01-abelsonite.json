@@ -1,13 +1,13 @@
 {
-	"type":"material",
-	//"type":"resource", (não entra no nucleo)
-	"name":"Abelsonite\n[T2]",
-	"description":"A normal material",
+	"type": "material",
+	//"type": "resource", (não entra no nucleo)
+	"name": "Abelsonite\n[T2]",
+	"description": "A normal material",
 	"color":"#6ae1ff",
-	"explosiveness":0,
-	"radioactivity":0,
-	"flammability":0,
-	"hardness":7,
-	"cost":2, 	//usado para calcular os horários dos locais; 1 custo = 1 tick adicionado ao tempo de criação
-	"alwaysUnlocked":false,	//se esse item estara sempre desbloqueado,
+	"explosiveness": 0,
+	"radioactivity": 0,
+	"flammability": 0,
+	"hardness": 7,
+	"cost": 2, 	//usado para calcular os horários dos locais; 1 custo = 1 tick adicionado ao tempo de criação
+	"alwaysUnlocked": false,	//se esse item estara sempre desbloqueado,
 }

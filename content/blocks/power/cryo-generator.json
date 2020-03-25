@@ -1,41 +1,41 @@
 {
-	"type":"singleTypeGenerator",
-	"name":"CryoFluid Generator",
-	"description":"Gera muita energia a frio, comsome grandes quantidades de titanium",
+	"type": "singleTypeGenerator",
+	"name": "CryoFluid Generator",
+	"description": "Gera muita energia a frio, comsome grandes quantidades de titanium",
 
-	"size":3,
-	"health":1400,
-	"itemDuration":35,
+	"size": 3,
+	"health": 1400,
+	"itemDuration": 35,
 	"heatColor":"#89e9ef",
-	"powerProduction":60,
-	"ramdomlyExplodes":false,
-	"maxLiquidGenerate":1,
-	"minliquidEfficiency":0.1,
-	"minItemEfficiency":0.1,
+	"powerProduction": 60,
+	"randomlyExplode": false,
+	"maxLiquidGenerate": 1,
+	"minLiquidEfficiency": 0.1,
+	"minItemEfficiency": 0.1,
 
 
 	// about comsume itens
 	"consumes":{
 		
-		"liquid":{"liquid":"cryofluid","amount":0.6},
+		"liquid":{"liquid": "cryofluid", "amount": 0.6},
 		
 		"items":{
 			"items":[
-				{"item":"titanium","amount":1},
+				{"item": "titanium", "amount": 1},
 
 		]}
 
 	},
 
 	"requirements":[
-		{"item":"titanium","amount":250},
-		{"item":"metaglass","amount":175},
-		{"item":"lead","amount":100},
-		{"item":"silicon","amount":50},
-		{"item":"plastanium","amount":50},
+		{"item": "titanium", "amount": 250},
+		{"item": "metaglass", "amount": 175},
+		{"item": "lead", "amount": 100},
+		{"item": "silicon", "amount": 50},
+		{"item": "plastanium", "amount": 50},
 	],
 
-	"category":"power",
-	"research":"combustion-generator",
+	"category": "power",
+	"research": "combustion-generator",
 
 }

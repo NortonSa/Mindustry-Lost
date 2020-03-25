@@ -1,16 +1,15 @@
 {
-	"type":"floor",
-	"name":"Mawsynram Floor",
-	"variants":3,
+	"type": "floor",
+	"name": "Mawsynram Floor",
+	"variants": 3,
 	"color":"#344d9f",
-	"playerUnmineable":true,
-	"speedMultiplier":0.5, //50% speed drecrease;
-	"updateEffect":"pulverizeSmall",
-	"status":"wet",
+	"playerUnmineable": true,
+	"speedMultiplier": 0.5, //50% speed drecrease;
+	"updateEffect": "pulverizeSmall",
+	"status": "wet",
 	
-	// "color"
-	"attribute":{"Array":[0,0.50,0,0]},
-	// beat , water, spores , heat 
+	"attributes":{ "array": [0,0.50,0,0] }
+
 
 
 

@@ -1,40 +1,40 @@
 {
-	"type":"Drill",
-	"name":"Drill\n[T4]",
-	"description":"undefined",
-	"health":432,
-	"hasPower":true,
-	"hasLiquid":true,
-	"hasItem":true,
-	"size":3,
-	"tier":9,
-	"liquidCapacity":9,
-	"drillEffect":"mine",
-	"drawRim":true,
-	"rotateSpeed":10,
-	"warmupSpeed":0.003,
+	"type": "Drill",
+	"name": "Drill\n[T4]",
+	"description": "undefined",
+	"health": 432,
+	"hasPower": true,
+	"hasLiquids": true,
+	"hasItems": true,
+	"size": 3,
+	"tier": 9,
+	"liquidCapacity": 9,
+	"drillEffect": "mine",
+	"drawRim": true,
+	"rotateSpeed": 10,
+	"warmupSpeed": 0.003,
 	//cor de calor
 	"heatColor":"#f2b6cc",
 
-	"drillTime":230,
-	"alwaysUnlocked":true,// Just for debug
-	"liquidBoostIntensity":1.45,
+	"drillTime": 230,
+	"alwaysUnlocked": true,// Just for debug
+	"liquidBoostIntensity": 1.45,
 
 	"consumes":{
 		
-		"power":2.4,
-		"liquid":{"liquid":"water","amount":0.05,"optional":true,"booster":true}
+		"power": 2.4,
+		"liquid":{"liquid": "water", "amount": 0.05,"optional": true,"booster": true}
 	},
 
 	"requirements":[
-		{"item":"03-fragment","amount":50},
-		{"item":"titanium","amount":25},
-		{"item":"thorium","amount":40},
-		{"item":"surge-alloy","amount":10},
+		{"item": "03-fragment", "amount": 50},
+		{"item": "titanium", "amount": 25},
+		{"item": "thorium", "amount": 40},
+		{"item": "surge-alloy", "amount": 10},
 	],
 
-	"category":"production",
-	"research":"laser-drill",
+	"category": "production",
+	"research": "laser-drill",
 
 
 }

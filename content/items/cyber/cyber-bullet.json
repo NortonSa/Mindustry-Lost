@@ -1,9 +1,9 @@
 {
-	"type":"resource",
-	"name":"Cyber Bullet",
-	"description":"A Unknown material",
-	"flammability":1,
-	"radioactivity":1,
-	"explosiveness":1,
+	"type": "resource",
+	"name": "Cyber Bullet",
+	"description": "A Unknown material",
+	"flammability": 1,
+	"radioactivity": 1,
+	"explosiveness": 1,
 	// "color":"#"
 }
