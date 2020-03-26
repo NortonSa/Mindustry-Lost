@@ -1,38 +1,38 @@
 {
-	"type": "itemTurret",
-	"name": "Abelsonite Fuse [Tier: 2]",
-	"description": "A powerfull turret",
+	"type":"itemTurret",
+	"name":"Abelsonite Fuse [Tier: 2]",
+	"description":"A powerfull turret",
 
-	"buildVisibility": "debugOnly",
+	"buildVisibility":"debugOnly",
 	
-	"targetAir": true,
-	"size": 3,
-	"health": 2500,
-	"reload": 35,
-	"recoil": 5,
-	"shots": 3,
-	"spread": 20,
-	"restitution": 0.1,
-	"shootCone": 30,
-	"shootSound": "shotgun",
-	"range": 105,
-	"ammoEjectBack": 20,
+	"targetAir":true,
+	"size":3,
+	"health":2500,
+	"reload":35,
+	"recoil":5,
+	"shots":3,
+	"spread":20,
+	"restitution":0.1,
+	"shootCone":30,
+	"shootSound":"shotgun",
+	"range":105,
+	"ammoEjectBack":20,
 	
 
 	 "ammo":{
 		"graphite":{
-		"type": "basicBulletType",
+		"type":"basicBulletType",
 		"frontColor":"#ffffff",
 		"backColor":"#ffffff",
-		"bulletWidth": 10,
-		"bulletHeight": 50,
-		"speed": 6,
-		"hitSize": 10,
-		"lifetime": 15,
-		"damage": 150,
-		"shootEffect": "lightningShoot",
-		"hitEffect": "hitFuse",
-		"drawSize": 100
+		"bulletWidth":10,
+		"bulletHeight":50,
+		"speed":6,
+		"hitSize":10,
+		"lifetime":15,
+		"damage":150,
+		"shootEffect":"lightningShoot",
+		"hitEffect":"hitFuse",
+		"drawSize":100
 
 		}
 	
@@ -40,8 +40,8 @@
 	 },
 
 	"requirements":[
-		{"item": "copper", "amount": 10,}
+		{"item":"copper", "amount":10,}
 	],
-	"category": "turret",
-	"research": "fuse",
+	"category":"turret",
+	"research":"fuse",
 }

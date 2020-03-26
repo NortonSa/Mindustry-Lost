@@ -1,18 +1,18 @@
 {	
-	"type": "Wall",
-	"name": "Huge Wall\n[T8]",
-	"description": "undefined",
-	"health": 22080,
-	"size": 3,
-	// "buildVisibility": "debugOnly",
-	"alwaysUnlocked": true,  
+	"type":"Wall",
+	"name":"Huge Wall\n[T8]",
+	"description":"undefined",
+	"health":22080,
+	"size":3,
+	// "buildVisibility":"debugOnly",
+	"alwaysUnlocked":true,  
 
 	"requirements":[
-		{"item": "08-fragment", "amount": 125}
-		{"item": "copper", "amount": 25},
-		{"item": "lead", "amount": 25},
+		{"item":"08-fragment", "amount":125}
+		{"item":"copper", "amount":25},
+		{"item":"lead", "amount":25},
 	],
 
-	// "category": "defense",
-	// "research": "08-small",
+	// "category":"defense",
+	// "research":"08-small",
 }

@@ -1,9 +1,9 @@
 {
-	"type": "OreBlock",
-	"variants": 3,
-	"itemDrop": "07-01-aquamarine",
-	"playerUnmineable": true,
-	"oreDefault": true,
-	"oreThreshold": 0.85,
-	"oreScale": 18,
+	"type":"OreBlock",
+	"variants":3,
+	"itemDrop":"07-01-aquamarine",
+	"playerUnmineable":true,
+	"oreDefault":true,
+	"oreThreshold":0.85,
+	"oreScale":18,
 }

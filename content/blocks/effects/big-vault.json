@@ -1,0 +1,18 @@
+{
+	"type":"Vault",
+	"name":"Big Vault",
+	"Description":"Consegue guardar grandes quantidades de recursos",
+
+	"size":4,
+	"itemCapacity":2500,
+
+
+	"requirements":[
+		"titanium/250",
+		"thorium/200",
+		"plastanium/50",
+	],
+
+	"category":"effect",
+	"research":"vault",
+}

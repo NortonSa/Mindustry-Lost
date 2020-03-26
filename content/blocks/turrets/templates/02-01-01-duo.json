@@ -1,47 +1,47 @@
 {
-	"type": "ItemTurret",
-	"name": "Abelsonite Duo [Tier: 2]",
-	"description": "A very estrange duo",
+	"type":"ItemTurret",
+	"name":"Abelsonite Duo [Tier: 2]",
+	"description":"A very estrange duo",
 
-	"buildVisibility": "debugOnly",
+	"buildVisibility":"debugOnly",
 
 
-	"size": 1,
-	"reload": 15,
-	"range": 240,
-	"inaccuracy": 5,
-	"rotatespeed": 10,
-	"shots": 1,
-	"ammoUseEffect": "shellEjectSmall",
-	// "shootEffect": "shootSmallFlame",
-	"recoil": 1,
-	"restitution": 0.05,
-	"cooldown": 0.1,
-	"maxAmmo": 15,
+	"size":1,
+	"reload":15,
+	"range":240,
+	"inaccuracy":5,
+	"rotatespeed":10,
+	"shots":1,
+	"ammoUseEffect":"shellEjectSmall",
+	// "shootEffect":"shootSmallFlame",
+	"recoil":1,
+	"restitution":0.05,
+	"cooldown":0.1,
+	"maxAmmo":15,
 
 	"ammo":{
 		"02-01-abelsonite":{
-			"type": "basicBulletType",
+			"type":"basicBulletType",
 			"frontColor":"#d51e52",
 			"backColor":"#d51e52",
-			"damage": 29,
-			"speed": 2,
-			"lifetime": 220,
-			"bulletWidth": 4,
-			"bulletHeight": 6,
-			"status": "burning",
-			"statusDuration": 360,
-			"splashDamage": 1
+			"damage":29,
+			"speed":2,
+			"lifetime":220,
+			"bulletWidth":4,
+			"bulletHeight":6,
+			"status":"burning",
+			"statusDuration":360,
+			"splashDamage":1
 
 		}
 	},
 
 	"requirements":[
-		{"item": "copper", "amount": 60}
+		{"item":"copper", "amount":60}
 	], 
 
 
 
-	"category": "turret",
-	"research": "duo",
+	"category":"turret",
+	"research":"duo",
 }

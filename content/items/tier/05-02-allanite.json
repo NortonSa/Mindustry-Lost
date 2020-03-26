@@ -1,13 +1,13 @@
 {
-	"type": "material",
-	//"type": "resource", (não entra no nucleo)
-	"name": "Allanite\n[T5]",
-	"description": "A normal material",
+	"type":"material",
+	//"type":"resource", (não entra no nucleo)
+	"name":"Allanite\n[T5]",
+	"description":"A normal material",
 	"color":"#7fa4f7",
-	"explosiveness": 0,
-	"radioactivity": 0,
-	"flammability": 0,
-	"hardness": 10,	//(tier + 5)
-	"cost": 2, 	// tempo que a broca leva pra farmar 1 item 
-	"alwaysUnlocked": false,	//se esse item estara sempre desbloqueado,
+	"explosiveness":0,
+	"radioactivity":0,
+	"flammability":0,
+	"hardness":10,	//(tier + 5)
+	"cost":2, 	// tempo que a broca leva pra farmar 1 item 
+	"alwaysUnlocked":false,	//se esse item estara sempre desbloqueado,
 }

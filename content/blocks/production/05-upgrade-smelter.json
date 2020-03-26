@@ -1,37 +1,37 @@
 {
-	"type": "GenericSmelter",
-	"name": "Upgrade Smelter\n[T5]",
-	"description": "upgrade to next Tier Ore",
-	"itemCapacity": 12,
+	"type":"GenericSmelter",
+	"name":"Upgrade Smelter\n[T5]",
+	"description":"upgrade to next Tier Ore",
+	"itemCapacity":12,
 	
-	"hasItems": true,
-	"hasPower": true,
-	"craftTime": 60,
-	"size": 2,
-	"craftEffect": "smeltsmoke",
+	"hasItems":true,
+	"hasPower":true,
+	"craftTime":60,
+	"size":2,
+	"craftEffect":"smeltsmoke",
 	"flameColor":"#7fa4f7",
-	"alwaysUnlocked": true, 
+	"alwaysUnlocked":true, 
 
 	"consumes":{
-		"power": 1.5,
+		"power":1.5,
 		"items":{
 			"items":[
-				{"item": "05-01-actinolite", "amount": 3},
-				{"item": "05-02-allanite", "amount": 3}
+				{"item":"05-01-actinolite", "amount":3},
+				{"item":"05-02-allanite", "amount":3}
 		]}
 	},
 
 	"requirements":[
-		{"item": "04-fragment", "amount": 35},
-		{"item": "graphite", "amount": 25},
-		{"item": "silicon", "amount": 20}
-		{"item": "surge-alloy", "amount": 15},
+		{"item":"04-fragment", "amount":35},
+		{"item":"graphite", "amount":25},
+		{"item":"silicon", "amount":20}
+		{"item":"surge-alloy", "amount":15},
 	],
 
-	"outputItem":{"item": "05-fragment", "amount": 1},
+	"outputItem":{"item":"05-fragment", "amount":1},
 
 
-	"category": "crafting",
-	"research": "04-upgrade-smelter"
+	"category":"crafting",
+	"research":"04-upgrade-smelter"
 
 }

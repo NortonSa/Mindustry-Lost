@@ -1,0 +1,34 @@
+{
+	"name":"Titanium Mend Projector",
+	"description":"um projetor mais barato porém com menas efficiencia",
+
+	"size":3,
+	"healPercent":70,
+	"reload":240,
+	"phaseBoost":2.25,
+	"range":105,
+	"useTime":300,
+	"phaseRangeBoost":60,
+
+	"consumes":{
+		"power":1,
+
+		"items":{
+			"items":[
+				"titanium/1"
+			],
+			"optional":true,
+			"booster":true
+		}
+	},
+
+	"requirements":[
+		"copper/150",
+		"lead/125",
+		"titanium/75",
+		"silicon/40",
+	],
+
+	"category":"effect",
+	"research":"mend-projector"
+}

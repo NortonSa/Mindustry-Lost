@@ -1,0 +1,23 @@
+{
+	"type":"ShockMine",
+	"name":"Big Shock Mine",
+	"description": "Uma mina maior e mais poderosa, pode destruir onda com muitos inimigos proximos",
+
+	"size":2,
+	"damage":26,
+	"tileDamage":10,
+	"damage":26,
+	"hasShadow": false,
+	"length":8,
+	"tendrils":6,
+
+	"requirements":[
+		"lead/50"
+		"silicon/24"
+	],
+
+	"category":"effect",
+	"research":"shock-mine",
+
+
+}

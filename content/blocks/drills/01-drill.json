@@ -1,41 +1,41 @@
 {
-	"type": "Drill",
-	"name": "Drill\n[T1]",
-	"description": "A better vesion of pneumatic Drill, not very fast but hard",
-	"hasLiquids": true,
-	"hasItems": true,
-	"health": 192,
-	"size": 2,
-	"tier": 6,
-	//"drawRim": true,
-	"liquidCapacity": 4.5,
-	"drillEffect": "mine",
-	"rotateSpeed": 6,
-	"warmupSpeed": 0.003,
-	"heatColor": "ff5512",
-	"drillTime": 300,
-	"alwaysUnlocked": true,// Just for debug
-	"liquidBoostIntensity": 1.6,
+	"type":"Drill",
+	"name":"Drill\n[T1]",
+	"description":"A better vesion of pneumatic Drill, not very fast but hard",
+	"hasLiquids":true,
+	"hasItems":true,
+	"health":192,
+	"size":2,
+	"tier":6,
+	//"drawRim":true,
+	"liquidCapacity":4.5,
+	"drillEffect":"mine",
+	"rotateSpeed":6,
+	"warmupSpeed":0.003,
+	"heatColor":"ff5512",
+	"drillTime":300,
+	"alwaysUnlocked":true,// Just for debug
+	"liquidBoostIntensity":1.6,
 
 	"consumes":{
 		
-		//"power": 1.5,
-		"liquid":{"liquid": "water", "amount": 0.025,"optional": true,"booster": true,}
+		//"power":1.5,
+		"liquid":{"liquid":"water", "amount":0.025,"optional":true,"booster":true,}
 	},
 
 
 	"requirements":[
-		{"item": "clay", "amount": 40},
-		{"item": "graphite", "amount": 30},
-		{"item": "plastanium", "amount": 15},
-		{"item": "silicon", "amount": 20},
-		{"item": "titanium", "amount": 20},
+		{"item":"clay", "amount":40},
+		{"item":"graphite", "amount":30},
+		{"item":"plastanium", "amount":15},
+		{"item":"silicon", "amount":20},
+		{"item":"titanium", "amount":20},
 	],
 
 	
 
-	"category": "production",
-	"research": "pneumatic-drill",
+	"category":"production",
+	"research":"pneumatic-drill",
 
 
 }

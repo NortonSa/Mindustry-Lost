@@ -1,0 +1,39 @@
+{
+	"type":"ForceProjector",
+	"name":"Titanium Force Projector",
+	"description":"Um projetor de campo de força compacto,um pouco mais fraco que o padrão",
+
+	"size":2,
+	"phaseUseTime":330,
+	"phaseRadiusBoost":50,
+	"radius":88,
+	"breakage":450,
+	"cooldownNormal":1.75,
+	"cooldownLiquid":1.50,
+	"cooldownBrokenBase":0.25,
+	"basePowerDraw":0.2,
+	"consumes":{
+		"power":2.5,
+
+		"items":{
+			"items":[
+				"titanium/1"	
+			],			
+			"optional":true,
+			"booster":true,
+		}
+
+	},	
+
+	"requirements":[
+
+		"lead/125",
+		"titanium/125",
+		"silicon/75"
+	],
+
+	"category":"effect",
+	"research":"force-projector",
+
+
+}

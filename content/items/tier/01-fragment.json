@@ -1,6 +1,6 @@
 {
-	"type": "material",
-	"name": "T1 Fragment",
-	"description": "undefined",
+	"type":"material",
+	"name":"T1 Fragment",
+	"description":"undefined",
 	"color":"#df7927"// achar uma cor que realmente bata com o sprite.
 }

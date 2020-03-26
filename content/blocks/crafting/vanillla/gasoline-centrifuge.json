@@ -1,38 +1,36 @@
 {
-	"type": "GenericCrafter",
-	"name": "Gasoline Centrifuge",
-	"description": "transform diesel into gasoline",
-	"health": 360,
-	"size": 2,
-	"craftTime": 60,	
-	"craftEffect": "smeltsmoke",
+	"type":"GenericCrafter",
+	"name":"Gasoline Centrifuge",
+	"description":"transform diesel into gasoline",
 	
-	"liquidCapacity": 16,
-	
-	"hasPower": true,"hasItems": true,"hasLiquids": true,"outputsLiquid": true,
-	"updateEffect": "smelt",	
-	"updateEffectChance": 0.02,
-
-	"outputLiquid":{"liquid": "gasoline", "amount": 8},
+	"health":360,
+	"size":2,
+	"craftTime":60,	
+	"craftEffect":"smeltsmoke",	
+	"liquidCapacity":16,	
+	"hasPower":true,
+	"hasItems":true,
+	"hasLiquids":true,
+	"outputsLiquid":true,
+	"updateEffect":"smelt",	
+	"updateEffectChance":0.02,
 
 	"consumes":{
-
-		"power": 1.25,
-
-		
-		"liquid":{"liquid": "diesel", "amount": 0.134}
+		"power":1.25,
+		"liquid":{ "liquid":"diesel","amount":0.134 }
 	},
+
+	"outputLiquid":{"liquid":"gasoline", "amount":8},
 	
 	"requirements":[
-		{"item": "clay", "amount": 50}
-		{"item": "copper", "amount": 30}
-		{"item": "lead", "amount": 40}
-		{"item": "titanium", "amount": 20}
-		{"item": "silicon", "amount": 20}
-
+		"clay/50",
+		"copper/30",
+		"lead/40",
+		"titanium/20",
+		"silicon/20",
 	],
 	
-	"category": "crafting",
-	"research": "diesel-centrifuge",
+	"category":"crafting",
+	"research":"diesel-centrifuge",
 
 }

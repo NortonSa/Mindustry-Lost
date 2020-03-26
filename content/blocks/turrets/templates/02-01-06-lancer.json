@@ -1,33 +1,33 @@
 {
-	"type": "chargeTurret",
-	"name": "Abelsonite Lancer[Tier: 2]",
+	"type":"chargeTurret",
+	"name":"Abelsonite Lancer[Tier: 2]",
 
-	"buildVisibility": "debugOnly",
+	"buildVisibility":"debugOnly",
 	
-	"description": "a simple lancer",
-	"powerUse": 2,
-	"shootType": "lancerLaser",
-	"range": 160,
-	"reload": 75,
-	"recoil": 3,
-	"restitution": 0.2,
-	"targetAir": false,
-	"size": 2,
-	"chargeEffects": 8,
-	"shootSound": "laser",
-	"chargeEffect": "lancerLaserCharge",
-	"smokeEffect": "lancerLaserShoot",
-	"smokeEffect": "lancerLaserShoot",
+	"description":"a simple lancer",
+	"powerUse":2,
+	"shootType":"lancerLaser",
+	"range":160,
+	"reload":75,
+	"recoil":3,
+	"restitution":0.2,
+	"targetAir":false,
+	"size":2,
+	"chargeEffects":8,
+	"shootSound":"laser",
+	"chargeEffect":"lancerLaserCharge",
+	"smokeEffect":"lancerLaserShoot",
+	"smokeEffect":"lancerLaserShoot",
 	"heatColor":"#d51e52",
-	"chargeMaxDelay": 30,
-	"cooldown": 4,
-	"chargeTime": 45,
+	"chargeMaxDelay":30,
+	"cooldown":4,
+	"chargeTime":45,
 
 	"requirements":[
-		{"item": "copper", "amount": "60"}
+		{"item":"copper", "amount":"60"}
 	],
 
-	"category": "turret",
-	"research": "lancer"
+	"category":"turret",
+	"research":"lancer"
 }
 

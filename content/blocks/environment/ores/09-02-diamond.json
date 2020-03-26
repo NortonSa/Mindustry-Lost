@@ -1,10 +1,10 @@
 {
-	"type": "OreBlock",
-	"variants": 3,
-	"itemDrop": "09-02-diamond",
-	"playerUnmineable": true,
-	"oreDefault": true,
-	"oreThreshold": 0.85,
-	"oreScale": 17,
+	"type":"OreBlock",
+	"variants":3,
+	"itemDrop":"09-02-diamond",
+	"playerUnmineable":true,
+	"oreDefault":true,
+	"oreThreshold":0.85,
+	"oreScale":17,
 
 }

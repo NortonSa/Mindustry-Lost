@@ -1,18 +1,18 @@
 {	
-	"type": "Wall",
-	"name": "Medium Wall\n[T2]",
-	"description": "undefined",
+	"type":"Wall",
+	"name":"Medium Wall\n[T2]",
+	"description":"undefined",
 	
-	"health": 4600,
-	"size": 2,
-	"alwaysUnlocked": true,
+	"health":4600,
+	"size":2,
+	"alwaysUnlocked":true,
 
 	"requirements":[
-		{"item": "02-fragment", "amount": 35}
-		{"item": "copper", "amount": 10},
-		{"item": "lead", "amount": 10},
+		{"item":"02-fragment", "amount":35}
+		{"item":"copper", "amount":10},
+		{"item":"lead", "amount":10},
 	],
 
-	"category": "defense",
-	"research": "02-small",
+	"category":"defense",
+	"research":"02-small",
 }

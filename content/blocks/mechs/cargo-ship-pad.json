@@ -1,23 +1,23 @@
 {
-	"type": "mechPad",
-	"mech": "cargo",
-	"name": "Cargo ship Pad",
-	"description": "transforma em um ship cargueiro que minera muitos recursos",
-	"size": 2,	
+	"type":"mechPad",
+	"mech":"cargo",
+	"name":"Cargo ship Pad",
+	"description":"transforma em um ship cargueiro que minera muitos recursos",
+	"size":2,	
 	
 	"consumes":{
-		"power": 1
+		"power":1
 	},
 
 
 	"requirements":[
-		{"item": "copper", "amount": 150},
-		{"item": "lead", "amount": 150},
-		{"item": "titanium", "amount": 150},
-		{"item": "silicon", "amount": 150},
+		{"item":"copper", "amount":150},
+		{"item":"lead", "amount":150},
+		{"item":"titanium", "amount":150},
+		{"item":"silicon", "amount":150},
 	],
 
-	"category": "upgrade",
-	"research": "glaive-ship-pad"
+	"category":"upgrade",
+	"research":"glaive-ship-pad"
 
 }

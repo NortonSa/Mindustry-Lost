@@ -1,0 +1,35 @@
+{
+	"name":"Titanium Overdrive Projector",
+	"description":"Um Overdrive Projector melhorado com maior alcace",
+
+	"size":3,
+	"reload":75,
+	"range":120,
+	"speedBoost":1.50,
+	"speedBoostPhase":1.25,
+	"phaseRangeBoost":20,
+	"useTime":425,
+
+	"consumes":{
+		"power":1.5,
+
+		"items":{
+			"items":[
+				"titanium/1"
+			],
+			"optional":true,
+			"booster":true,
+		}
+	},
+
+	"requirements":[
+		"copper/150",
+		"lead/125",
+		"titanium/100",
+		"silicon/50",
+		"plastanium/40",
+	],
+
+	"category":"effect",
+	"research":"overdrive-projector"
+}

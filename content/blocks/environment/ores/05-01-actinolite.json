@@ -1,9 +1,9 @@
 {
-	"type": "OreBlock",
-	"variants": 3,
-	"itemDrop": "05-01-actinolite",
-	"playerUnmineable": true,
-	"oreDefault": true,
-	"oreThreshold": 0.85,
-	"oreScale": 18,
+	"type":"OreBlock",
+	"variants":3,
+	"itemDrop":"05-01-actinolite",
+	"playerUnmineable":true,
+	"oreDefault":true,
+	"oreThreshold":0.85,
+	"oreScale":18,
 }

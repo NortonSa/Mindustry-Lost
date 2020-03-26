@@ -1,6 +1,6 @@
 {
-	"type": "staticWall",
-	"name": "Clay Wall",
-	"variants": 0,
+	"type":"staticWall",
+	"name":"Clay Wall",
+	"variants":0,
 	"color":"#a5a5a5"
 }

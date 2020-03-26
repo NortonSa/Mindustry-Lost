@@ -1,9 +1,9 @@
 {
-	"type": "OreBlock",
-	"variants": 3,
-	"itemDrop": "08-01-alexandrite",
-	"playerUnmineable": true,
-	"oreDefault": true,
-	"oreThreshold": 0.85,
-	"oreScale": 17,
+	"type":"OreBlock",
+	"variants":3,
+	"itemDrop":"08-01-alexandrite",
+	"playerUnmineable":true,
+	"oreDefault":true,
+	"oreThreshold":0.85,
+	"oreScale":17,
 }

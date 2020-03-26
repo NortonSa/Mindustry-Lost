@@ -1,9 +1,9 @@
 {
-	"name": "diesel",
-	"description": "uma compressão de oil",
-	"viscosity": 1,
-	"flammability": 1,
-	"heatCapacity": 0.5,
+	"name":"diesel",
+	"description":"uma compressão de oil",
+	"viscosity":1,
+	"flammability":1,
+	"heatCapacity":0.5,
 
 	"lightColor":"#636161",
 	"color":"#636161",

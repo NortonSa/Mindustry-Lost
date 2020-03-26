@@ -1,38 +1,38 @@
 {
-	"type": "GenericSmelter",
-	"name": "Upgrade Smelter\n[T9]",
-	"description": "upgrade to next Tier Ore",
-	"itemCapacity": 18,
+	"type":"GenericSmelter",
+	"name":"Upgrade Smelter\n[T9]",
+	"description":"upgrade to next Tier Ore",
+	"itemCapacity":18,
 	
-	"hasItems": true,
-	"hasPower": true,
-	"craftTime": 60,
-	"size": 3,
-	"craftEffect": "smeltsmoke",
+	"hasItems":true,
+	"hasPower":true,
+	"craftTime":60,
+	"size":3,
+	"craftEffect":"smeltsmoke",
 	"flameColor":"#f54343",
-	"alwaysUnlocked": true,
+	"alwaysUnlocked":true,
 
 	"consumes":{
-		"power": 1.7,
+		"power":1.7,
 		"items":{
 			"items":[
-				{"item": "09-01-diamond", "amount": 6},
-				{"item": "09-02-diamond", "amount": 6}
+				{"item":"09-01-diamond", "amount":6},
+				{"item":"09-02-diamond", "amount":6}
 		]}
 	},
 
 	"requirements":[
-		{"item": "08-fragment", "amount": 50},
-		{"item": "plastanium", "amount": 20}
-		{"item": "titanium", "amount": 25},
-		{"item": "thorium", "amount": 30},
-		{"item": "surge-alloy", "amount": 15},
+		{"item":"08-fragment", "amount":50},
+		{"item":"plastanium", "amount":20}
+		{"item":"titanium", "amount":25},
+		{"item":"thorium", "amount":30},
+		{"item":"surge-alloy", "amount":15},
 	],
 
-	"outputItem":{"item": "09-fragment", "amount": 1},
+	"outputItem":{"item":"09-fragment", "amount":1},
 
 
-	"category": "crafting",
-	"research": "08-upgrade-smelter"
+	"category":"crafting",
+	"research":"08-upgrade-smelter"
 
 }

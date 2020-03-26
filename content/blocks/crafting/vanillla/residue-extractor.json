@@ -1,29 +1,29 @@
 {
-	"type": "GenericCrafter",
-	"name": "Diesel residue Extractor",
-	"description": "transform Diesel into D-residue",
-	"size": 1,
-	"sync": true, // network connection
+	"type":"GenericCrafter",
+	"name":"Diesel residue Extractor",
+	"description":"transform Diesel into D-residue",
+	"size":1,
+	"sync":true, // network connection
 
-	"craftTime": 115,
-	"hasLiquids": true,"hasPower": true,"outputsLiquid": true,
-	"itemCapacity": 5.6,
+	"craftTime":115,
+	"hasLiquids":true,"hasPower":true,"outputsLiquid":true,
+	"itemCapacity":5.6,
 
-	"outputItem":{"item": "solid-residue", "amount": 1},
+	"outputItem":{"item":"solid-residue", "amount":1},
 
 	"consumes":{
-		"power": 0.6,
-		"liquid":{"liquid": "diesel", "amount": 0.013}
+		"power":0.6,
+		"liquid":{"liquid":"diesel", "amount":0.013}
 	},
 	
 	"requirements":[
-		{"item": "copper", "amount": 10},
-		{"item": "lead", "amount": 15},
-		{"item": "graphite", "amount": 7},
-		{"item": "clay", "amount": 3},
+		{"item":"copper", "amount":10},
+		{"item":"lead", "amount":15},
+		{"item":"graphite", "amount":7},
+		{"item":"clay", "amount":3},
 
 	],
 	
-	"category": "crafting",
-	"research": "silicon-smelter",
+	"category":"crafting",
+	"research":"silicon-smelter",
 }

@@ -1,40 +1,40 @@
 {
-	"type": "SingleTypeGenerator",
-	"name": "diesel Generator",
-	"description": "geenerate energy with diesel",
-	"size": 4,
-	"sync": true,
+	"type":"SingleTypeGenerator",
+	"name":"diesel Generator",
+	"description":"geenerate energy with diesel",
+	"size":4,
+	"sync":true,
 
 	//about input
-	"itemDuration": 850,
-	"liquidCapacity": 24,
-	"maxLiquidGenerate": 0.2,
-	"minLiquidEfficiency": 0.5,
+	"itemDuration":850,
+	"liquidCapacity":24,
+	"maxLiquidGenerate":0.2,
+	"minLiquidEfficiency":0.5,
 
-	"powerProduction": 20,
-	"generateEffect": "generatespark",
+	"powerProduction":20,
+	"generateEffect":"generatespark",
 
 	"consumes":{
 		 "items":{
 		 	"items":[
-				{"item": "solid-residue", "amount": 1}
+				{"item":"solid-residue", "amount":1}
 		 	]
 		},
 
 		"liquid":{
-			"liquid": "diesel", "amount": 0.134},
+			"liquid":"diesel", "amount":0.134},
 	},
 
 	"requirements":[
-		{"item": "copper", "amount": 250},
-		{"item": "clay", "amount": 175},
-		{"item": "silicon", "amount": 150},
-		{"item": "thorium", "amount": 125},
-		{"item": "graphite", "amount": 125},
+		{"item":"copper", "amount":250},
+		{"item":"clay", "amount":175},
+		{"item":"silicon", "amount":150},
+		{"item":"thorium", "amount":125},
+		{"item":"graphite", "amount":125},
 	],
 
-	"randomlyExplode": false,
-	"category": "power",
-	"research": "combustion-generator",
+	"randomlyExplode":false,
+	"category":"power",
+	"research":"combustion-generator",
 
 }

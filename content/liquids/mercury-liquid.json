@@ -1,10 +1,10 @@
 {
-	"name": "Mercury",
-	"description": "Mercurio pode ser solidificado, um liquido importante para construções resistentes",
-	"flammability": 0.6,
-	"viscosity": 0.3,
-	"explosiveness": 0,
-	"heatCapacity": 0,//capacidade de resfriar água e 0.3 cryfluid é 0.9,
+	"name":"Mercury",
+	"description":"Mercurio pode ser solidificado, um liquido importante para construções resistentes",
+	"flammability":0.6,
+	"viscosity":0.3,
+	"explosiveness":0,
+	"heatCapacity":0,//capacidade de resfriar água e 0.3 cryfluid é 0.9,
 	
 	"color":"#d2d2d2",
 }

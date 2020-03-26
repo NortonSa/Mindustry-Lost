@@ -1,18 +1,18 @@
 {
-	"type": "floor",
-	"name": "Lava",
-	"isLiquid": true,
-	"variants": 0,
+	"type":"floor",
+	"name":"Lava",
+	"isLiquid":true,
+	"variants":0,
 	"color":"#ffb04a",
 
-	"speedMultiplier": 0.30, //70% less speed
-	"status": "melting",
-	"updateEffect": "lava",
-	"drownTime": 15,	
-	"statusDuration": 600, //5 sec duration	
-	"cacheLayer": "tar",
-	"edge": "stone",
-	"blendGroup": "stone",
-	"liquidDrop": "lava-liquid",
+	"speedMultiplier":0.30, //70% less speed
+	"status":"melting",
+	"updateEffect":"lava",
+	"drownTime":15,	
+	"statusDuration":600, //5 sec duration	
+	"cacheLayer":"tar",
+	"edge":"stone",
+	"blendGroup":"stone",
+	"liquidDrop":"lava-liquid",
 
 }

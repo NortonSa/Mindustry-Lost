@@ -94,36 +94,38 @@
 |:------------:|
 |  21/03/2020  |
 
-## *v0.6.0 mech pads* :white_check_mark:	
+## *v0.6.0 mech pads* :heavy_check_mark:	
 
 - [x] ***new mech pads for mining***
 	- [x] cargo ship (can mine high quanties of resources)
 	- [x] cargo mech pad 2x2 (block)
-- [ ] ***new mech pad like Vtol airplane,***
-	- [x] vtol
-	- [x] vtol mech pad 3x3 (block)
-- [ ] ***new tank mech pad (more life, less damage)***
+- [x] ***new mech pad like Vtol airplane,***
+	- [x] vtol ship
+	- [x] vtol ship pad 3x3 (block)
+- [x] ***new tank mech pad (more life, less damage)***
+	- [x] healer mech
+	- [x] healer mech pad
 
 |     Done     |
 |:------------:|
-|  ??/??/2020  |
+|  24/03/2020  |
 
-## *v0.7.0 menders and force projectors more effectively* :white_check_mark:	
+## *v0.7.0 menders and force projectors more effectively* :heavy_check_mark:	
 
-- [ ] ***new mender what gives 25% more eficience of base common, need 3x3 (boostItem = titanium) Color blue***
-- [ ] ***override projector gives 25% (boostItem =  titanium ) Color blue***
-- [ ] ***force projector more large but needs more energy***
-- [ ] ***repair point what can gives statusEffect armorMulplier***
-- [ ] ***"NEW FEATURE", Mine bomb 2x2 gives +200% damage --> BAD IDEA***
-- [ ] ***valts ?? (undefined)***
+- [x] ***Titanium Mend Projector***
+- [x] ***Titanium Overdride projector***
+- [x] ***Titanium Force Projector***
+- [ ] ~***repair point what can gives statusEffect armorMulplier***~ do it  after fix update.
+- [x] ***new Mine bomb 2x2 gives +200% damage***
+- [x] ***Big vaults store 2.5k resources***
 
 |     Done     |
 |:------------:|
-|  ??/??/2020  |
+|  26/03/2020  |
 
 ## *v0.8.0 better version of "Passive Units"* :white_check_mark:	
 
-- [ ] ***build phanton***
+- [ ] ***phanton builder***
 - [ ] ***draug***
 - [ ] ***repair spirit***
 
@@ -263,28 +265,34 @@
 |:--------------:|
 | 21 / 03 / 2020 |
 
-## ***v0.6.0 Mech Pad*** :white_check_mark:	
+## ***v0.6.0 Mech Pad*** :heavy_check_mark:	
 
-- [ ] ***novos blocos mecânicos para mineração***
-- [ ] ***novo teclado mecânico como o avião Vtol,***
-- [ ] ***novo tanque mach pad (mais vida, menos danos)***
+- [x] ***novos ship para mineração***
+	- [x] cargo ship
+	- [x] cargo ship Pad
+- [x] ***novo ship Vtol***
+	- [x] vtol ship
+	- [x] vtol ship pad
+- [x] ***novo tanque mach pad (mais vida, menos danos)***
+	- [x] healer
+	- [x] healer ship pad
+	
+|    completo    |
+|:--------------:|
+| 24 / 03 / 2020 |
+
+## ***v0.7.0 reparadores e projetores de força com mais eficiência*** :heavy_check_mark:	
+
+- [x] ***Projetor de titânio***
+- [x] ***Projetor Titanium Overdride***
+- [x] ***Projetor de força de titânio***
+- [ ] ~ ***Stação de reparo*** ~ fazê-lo após a atualização da correção.
+- [x] ***nova mina terrestre 2x2 causa + 200% de dano***
+- [x] ***Grande cofre armazena 2.5k recursos***
 
 |    completo    |
 |:--------------:|
-| ?? / ?? / 2020 |
-
-## ***v0.7.0 reparadores e projetores de força com mais eficiência*** :white_check_mark:	
-
-- [ ] ***novo reparador, que fornece 25% mais eficiência de base comum, precisa de 3x3 (boostItem = titânio) Cor azul***
-- [ ] ***novo projetor fornece 25% (boostItem = titânio) Cor azul***
-- [ ] ***força o projetor a ser maior, mas precisa de mais energia***
-- [ ] ***~ponto de reparo que pode dar status Effect~*** (i'm not sure)
-- [ ] ***"NEW RECURSO", a bomba da mina 2x2 causa + 200% de dano -> BAD IDEA***
-- [ ] ***valores ?? (Indefinido)***
-
-|    completo    |
-|:--------------:|
-| ?? / ?? / 2020 |
+| 26 / 03 / 2020 |
 
 ## ***v0.8.0 versão melhorada de "Unidades passivas"*** :white_check_mark:	
 
