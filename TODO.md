@@ -279,7 +279,11 @@
 	
 |    completo    |
 |:--------------:|
+<<<<<<< HEAD
 | 24 / 03 / 2020 |
+=======
+| 23 / 03 / 2020 |
+>>>>>>> 5350bf91314aaf52648e1401baf448873249a84b
 
 ## ***v0.7.0 reparadores e projetores de força com mais eficiência*** :heavy_check_mark:	
 
