@@ -2,8 +2,13 @@
 	"name":"lost",
 	"displayName":"[accent]<[] [white]Mindustry Lost[] [accent]>[]",
 	"author":"[orange]Norton",
+<<<<<<< HEAD
 	"description":"[yellow]Lost Expansion[]",
 	"version":"0.8.0 - [yellow]Alpha[]",
+=======
+	"description":"[yellow]Lost your expansion[]",
+	"version":"0.7.0 - [yellow]Alpha[]",
+>>>>>>> 47d7d14edc7093402f29e53aada574a40818eb67
 	"minGameVersion":104.1,
 	// "dependencies":"i still don't have"
 }
