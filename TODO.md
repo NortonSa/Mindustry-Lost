@@ -137,17 +137,9 @@
 	
 |     Done     |
 |:------------:|
-|  ??/??/2020  |
+|  29/03/2020  |
 
-## *v0.9.0 factorys units* :white_check_mark:	
 
-- [ ] ***new factory 4x4 can spawn reaper or other boss unit (unconfirmed)***
-- [ ] ***fly unit (rapida com misseis guiados)***
-- [ ] ***Ground unit Tank (curta distancia,splash damage)***
-
-|     Done     |
-|:------------:|
-|  ??/??/2020  |
 
 ## *1.9.0 Campaing and bundles* :white_check_mark:	
 
@@ -176,6 +168,11 @@
 
 - ***Ideas***
 	-vanguard unit? (wtf does it means? i don´t know)
+
+## ***v??? factorys units*** :white_check_mark:	
+- [ ] ***new factory 4x4 can spawn reaper or other boss unit (unconfirmed)***
+- [ ] ***fly unit (fast unit, more than wraith)***
+- [ ] ***Ground unit Tank (short distance with splash damage)***
 
 
 # ***TODO [<a name="Pt-br"><a/>Pt-Br]***
@@ -288,18 +285,14 @@
 	
 |    completo    |
 |:--------------:|
-<<<<<<< HEAD
 | 24 / 03 / 2020 |
-=======
-| 23 / 03 / 2020 |
->>>>>>> 5350bf91314aaf52648e1401baf448873249a84b
 
 ## ***v0.7.0 reparadores e projetores de força com mais eficiência*** :heavy_check_mark:	
 
 - [x] ***Projetor de titânio***
 - [x] ***Projetor Titanium Overdride***
 - [x] ***Projetor de força de titânio***
-- [ ] ~ ***Stação de reparo*** ~ fazê-lo após a atualização da correção.
+- [ ] ~ ***estação de reparo*** ~ fazê-lo após a atualização da correção.
 - [x] ***nova mina terrestre 2x2 causa + 200% de dano***
 - [x] ***Grande cofre armazena 2.5k recursos***
 
@@ -309,13 +302,15 @@
 
 ## ***v0.8.0 versão melhorada de "Unidades passivas"*** :heavy_check_mark:	
 
-- [ ] ***phantom***
+- [x] ***phantom***
 	- [x] Phantom V2
 	- [x] Phantom V2 Factory 3x3
-- [ ] ***draug***
-	- [ ] tiny Draug (rápido, pequeno e pode extrair alguns minérios) 
-	- [ ] tiny Draug factory 1x1
-- [ ] ***Spirit***
+- [x] ***draug***
+	- [x] tiny Draug (rápido, pequeno e pode extrair alguns minérios) 
+	- [x] tiny Draug factory 1x1
+- [x] ***Spirit***
+	- [x] Spirit v2
+	- [x] Spirit v2 factory
 
 |    completo    |
 |:--------------:|
