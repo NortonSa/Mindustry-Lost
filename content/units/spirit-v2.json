@@ -1,0 +1,21 @@
+{
+	"type":"RepairDrone",
+	"name":"Spirit V2",
+	"description":"Uma unidade de reparo melhorada",
+
+	"flying":true,
+	"health":420,
+	"speed":0.45,
+	"mass":4,
+	"range":70,
+	"drag":0.01,
+	"maxVelocity":2,
+	"engineOffset":3,
+	
+	"weapon":{
+		"name":"phantom-equip",
+		"bullet":"healBulletBig",
+		"reload":8,
+
+	},
+}

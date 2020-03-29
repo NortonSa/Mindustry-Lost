@@ -1,0 +1,24 @@
+{
+	"type":"MinerDrone",
+	"name":"druag v2",
+	"description":"Uma unidade draug melhorada, pode carregar mais recursos",
+
+	"health":160,
+	"speed":0.5,
+	"drag":0.01,
+	"flying":true,
+	"maxVelocity":1,
+	"mass":1.5,
+	"retreatPercent":0.3,
+	"range":50,
+	"itemCapacity":64,
+	"minePower":4,
+	"engineOffset":0.01,
+	"engineSize":0.01,
+	"toMine":["copper","lead","titanium"],
+
+	"weapon":{
+		"name":"draug-equip",
+		"bullet":"healBullet",
+	}
+}

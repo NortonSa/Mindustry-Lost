@@ -1,0 +1,23 @@
+{
+	"type":"BuilderDrone",
+	"name":"Phanton v2",
+	"description":"Uma versão melhorada do Phanton Builder",
+
+	"buildPower":0.8,
+	"health":800,
+	"speed":0.45,
+	"mass":4,
+	"range":80,
+	"drag":0.01,
+	"maxVelocity":2,
+	"engineOffset":3,
+	"flying":true,
+
+	
+	"weapon":{
+		"name":"phantom-equip",
+		"bullet":"healBullet",
+
+	},
+
+}

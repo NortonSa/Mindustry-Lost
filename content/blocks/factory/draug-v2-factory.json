@@ -1,0 +1,23 @@
+{
+	"type":"UnitFactory",
+	"name":"Draug V2 Factory",
+	"description":"Produz Draugs Melhorados",
+
+	"size":3,
+
+	"produceTime":2580,
+	"maxSpawn":1,
+	"unitType":"draug-v2",
+	"consumes":{
+		"power":1.5,
+	},
+
+	"requirements":[
+		"lead/90",
+		"copper/70",
+		"graphite/50",
+	],
+
+	"category":"units",
+	"research":"draug-factory"
+}

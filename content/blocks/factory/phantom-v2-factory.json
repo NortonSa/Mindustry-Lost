@@ -1,0 +1,32 @@
+{
+	"type":"UnitFactory",
+	"name":"Phantom v2 Factory",
+	"description":"produz Phantom Builders melhorados",
+
+	"size":3,
+	"produceTime":4500,
+	"maxSpawn":1,
+	"unitType":"phantom-v2",
+	"consumes":{
+		"power":3.2,
+		
+		"items":{
+			"items":[
+				"lead/50",
+				"titanium/40"
+				"silicon/65"
+			]
+		}
+	},
+
+	"requirements":[
+		"silicon/125",
+		"lead/100",
+		"metaglass/80",
+		"titanium/75",
+		"thorium/75",
+	],
+
+	"category":"units",
+	"research":"phantom-factory"
+}

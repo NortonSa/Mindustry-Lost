@@ -1,0 +1,28 @@
+{
+	"type":"UnitFactory",
+	"name":"Spirit v2 Factory",
+	"description":"Produz Spirit Melhorado",
+
+	"size":3,
+	"produceTime":4200,
+	"maxSpawn":1,
+	"unitType":"spirit-v2",
+	"consumes":{
+		"power":1.5,
+		
+		"items":{
+			"items":[
+				"titanium/30",
+				"silicon/45",
+				"lead/45"
+			]
+		}
+	},
+
+	"requirements":[
+		"copper/1",
+	],
+
+	"category":"units",
+	"research":"phantom-factory"
+}

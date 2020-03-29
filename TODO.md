@@ -123,12 +123,18 @@
 |:------------:|
 |  26/03/2020  |
 
-## *v0.8.0 better version of "Passive Units"* :white_check_mark:	
+## *v0.8.0 better version of "Passive Units"* :heavy_check_mark:	
 
-- [ ] ***phanton builder***
-- [ ] ***draug***
-- [ ] ***repair spirit***
-
+- [x] ***phantom builder***
+	- [x] phantom v2
+	- [x] phantom v2 factory
+- [x] ***draug***
+	- [x] draug v2
+	- [x] draug v2 factory
+- [x] ***repair spirit***
+	- [x] spirit v2
+	- [x] spirit v2 factory
+	
 |     Done     |
 |:------------:|
 |  ??/??/2020  |
@@ -167,6 +173,9 @@
 |  ??/??/2020  |
 
 ## ***1.10.1***?? :white_check_mark:
+
+- ***Ideas***
+	-vanguard unit? (wtf does it means? i don´t know)
 
 
 # ***TODO [<a name="Pt-br"><a/>Pt-Br]***
@@ -298,11 +307,14 @@
 |:--------------:|
 | 26 / 03 / 2020 |
 
-## ***v0.8.0 versão melhorada de "Unidades passivas"*** :white_check_mark:	
+## ***v0.8.0 versão melhorada de "Unidades passivas"*** :heavy_check_mark:	
 
-- [ ] ***phanton***
+- [ ] ***phantom***
+	- [x] Phantom V2
+	- [x] Phantom V2 Factory 3x3
 - [ ] ***draug***
 	- [ ] tiny Draug (rápido, pequeno e pode extrair alguns minérios) 
+	- [ ] tiny Draug factory 1x1
 - [ ] ***Spirit***
 
 |    completo    |
